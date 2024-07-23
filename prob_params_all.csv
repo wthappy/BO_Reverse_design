@@ -1,0 +1,690 @@
+Cell_architecture,Substrate_stack_sequence,ETL_stack_sequence,ETL_additives_compounds,ETL_deposition_procedure,Perovskite_composition_none_stoichiometry_components_in_excess,Perovskite_additives_compounds,Perovskite_deposition_procedure,DMF_DMSO,Perovskite_deposition_quenching_media,HTL_stack_sequence,HTL_additives_compounds,Backcontact_stack_sequence,Backcontact_thickness_list,Perovskite_deposition_solvents_IPA,Perovskite_deposition_thermal_annealing,prob
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,PMA,Spin-coating,0.7524417934134233,Diethyl ether,PTAA,NPB,AgAl,95.52005388477407,0,60; 100-5.0; 10.0,0.9745784414834437
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2,PAA,Spin-coating,0.9706586128458718,Diethyl ether,PTAA,O2,AgAl,114.37485070686964,0,100.0-120.0,0.9707129069110587
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Cs,Spin-coating,0.7468336474023718,Diethyl ether,PTAA,NPB,Al,103.19062626944921,0,60; 100-0.5; 5.0,0.969979042975937
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,NMA,Spin-coating,0.7521060455611861,Diethyl ether,PTAA,TAPC,AgAl,89.02846973412181,0,60; 100-3.0; 20.0,0.9695837925556973
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,PMA,Spin-coating,0.7766009165021215,Diethyl ether,PTAA,NPB,Al,93.3740740480826,0,60; 100-45.0; 50.0,0.96906794134824
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,NH4Cl,DMI,Spin-coating,0.7664135045419849,Diethyl ether,PTAA,Li-TFSI,AgAl,317.4106257058326,0,100.0-50.0,0.9667775780433461
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,MA,Spin-coating,0.8823892775385954,Diethyl ether,PTAA,TAPC,Al,79.10284258311246,0,65-2.0,0.9667745121447076
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Cs,Spin-coating,0.707541239519633,Diethyl ether,PTAA,NPB,Al,99.49905563813557,0,60.0-45.0,0.9652709191862926
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating | Spin-coating,PbI2,PU,Spin-coating,0.9723065491322276,Diethyl ether,PTAA,O2,AgAl,136.42765649701312,0,100.0-15.0,0.9633387166918057
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Cs,Spin-coating,0.8267974429121497,Diethyl ether,PTAA,TAPC,AgAl,77.24434137761597,0,40; 100-3.0; 10.0,0.963193940778577
+nip,SLG | FTO,SnO2-c,Undoped,Evaporation,NH4Cl,Rb,Spin-coating,0.7668520527840107,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,Ag,427.4098954763534,0,100.0-30.0,0.9624458252776137
+nip,SLG | FTO,SnO2-c,Undoped,Spin-coating,Pb,DPSI,Spin-coating,0.798482531556086,Toluene,PTAA,O2,AgAl,365.7114079605735,0,100.0-240.0,0.9617901775356501
+nip,SLG | FTO,TiO2-c,Galliumnitrate hydrate,Spin-coating,PbI2,PAA,Spin-coating,0.9733228174971111,Diethyl ether,PTAA,O2,AgAl,118.635580868105,0,100.0-100.0,0.9615578146056034
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,DA2PbI4,Spin-coating,0.8777946826601317,Chlorobenzene,PTAA,LAD,AgAl,283.1090121917592,0,65.0; 100.0-2.0; 4.0,0.9615450545277133
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.7485964809803872,Chlorobenzene,PTAA,NPB,AgAl,95.3562172679273,0,60; 80-2.0; 5.0,0.9612751117658744
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Spin-coating,NH4Cl,E2CA,Spin-coating,0.7433956902087757,Chlorobenzene,PTAA,LAD,AgAl,378.69516041023127,0,100.0-240.0,0.961025492579617
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Diiodooctane,Spin-coating,0.8975877771368124,Chlorobenzene,PTAA,TAPC,AgAl,72.51598238046945,0,130-30.0,0.9602970378868876
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,NH4SCN,Spin-coating,0.8226245659357564,Chlorobenzene,PTAA,NPB,AgAl,95.54515111260595,0,60; 100-10.0; 10.0,0.9592664442632372
+nip,SLG | FTO,SnO2-c,La,Spin-coating,NH4Cl,HATNA,Spin-coating,0.7107154527764239,Diethyl ether,PTAA,Li-TFSI,Ag,404.39792488549506,0,100.0-150.0,0.9591226159667093
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,NH4Cl,PMA,Spin-coating,0.8843990943862974,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,164.3216834929452,0,60.0; 100.0-5.0; 10.0,0.9589805258848224
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,SP-3D-COF 1,Spin-coating,0.827428267968069,Chlorobenzene,PTAA,TAPC,AgAl,83.14854375985131,0,60; 100-0.5; 5.0,0.9589500476887443
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Rb,Spin-coating,0.7760002894957994,Chlorobenzene,PTAA,TAPC,AgAl,101.53775765367524,0,60; 100-1.0; 4.0,0.9588481301029885
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,NMA,Spin-coating,0.8031491424216907,Diethyl ether,PTAA,NPB,AgAl,102.90410267701459,0,60.0; 100-2.0; 5.0,0.9587414355930427
+nip,SLG | FTO,SnO2-c,La,Spin-coating,PbI2,TMS,Spin-coating,0.7098073863233482,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,331.96013949427595,0,100.0-2.0,0.958676887887638
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,ITIC,Spin-coating,0.795848601524686,Chlorobenzene,PTAA,TAPC,AgAl,95.81463500651499,0,60; 105-45.0; 70.0,0.9583854841449604
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Evaporation,NH4Cl,E2CA,Spin-coating,0.8055678208406019,Chlorobenzene,PTAA,LAD,Ag,400.471863542504,0,100.0-15.0,0.9582192630588608
+pin,SLG | ITO,SnO2-np,Undoped,Spin-coating,Stoichiometric,HATNA,Spin-coating,0.748760242511465,Diethyl ether,PTAA,PolyTPD,AgAl,82.18623916958012,0,60; 80-1.0; 80.0,0.9577470772686526
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,PMA,Spin-coating,0.8737504845670039,Diethyl ether,PTAA,TAPC,AgAl,100.92435479095876,0,65; 100-2.0; 5.0,0.9577015169733385
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Diiodooctane,Spin-coating,0.7147654321246474,Chlorobenzene,PTAA,NPB,AgAl,91.49272232997697,0,60; 80-1.0; 80.0,0.9576852497032997
+nip,SLG | FTO,TiO2-c,Undoped,Evaporation,PbI2,PPC,Spin-coating,0.9707428772197187,Diethyl ether,PTAA,LAD,AgAl,151.91290199687,0,100.0-100.0,0.9574860513371187
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Spin-coating,PbI2,SQ45,Spin-coating,0.7719715516362735,Ethyl acetate,PTAA,LAD,AgAl,334.20256677709216,0,100.0-3.0,0.9574755945493976
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,Pb,Rb,Spin-coating,0.7858365257086983,Chlorobenzene,PTAA,Li-TFSI,Al,313.88195137310703,0,100.0-35.0,0.957264665836262
+nip,SLG | FTO,SnO2-np,Zr,Spin-coating,PbI2,PVA,Spin-coating,0.7588903308032363,Chlorobenzene,PTAA,LAD,AgAl,338.19576806358475,0,100.0-12.0,0.9570754272017568
+nip,SLG | FTO,SnO2-c,Undoped,Spin-coating,NH4Cl,E2CA,Spin-coating,0.7601302604211483,Chlorobenzene,PTAA,Li-TFSI,Ag,314.48188503790095,0,100.0-15.0,0.9570090129263696
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,ITIC; PCBM-60,Spin-coating,0.7660079508592677,Chlorobenzene,PTAA,TAPC,AgAl,90.47137545150353,0,60; 100-5.0; 10.0,0.9569335285096137
+nip,SLG | FTO,TiO2-c,Undoped,E-beam evaporation,PbI2,PAA,Spin-coating,0.9649987120989418,Diethyl ether,PTAA,LAD,AgAl,153.93133501989993,0,100.0-15.0,0.9569144289131133
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Carbon-nt,Spin-coating,0.797816881229175,Chlorobenzene,PTAA,NPB,Ag,93.6310321654129,0,60; 100-1.0; 5.0,0.9568132141426341
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2,TMS,Spin-coating,0.9738308225216882,Diethyl ether,PTAA,Li-TFSI,AgAl,141.71803725357523,0,100.0-30.0,0.9567626933778418
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating,PbI2,Carbon-np,Spin-coating,0.9101181667740069,Toluene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,86.28629178850817,0,100.0-7.0,0.9565113491282067
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Ni,Spin-coating,0.809163034288831,Chlorobenzene,PTAA,TAPC,AgAl,83.96850025776814,0,60.0; 100.0-5.0; 10.0,0.9564125714908178
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Methimazole,Spin-coating,0.8877390283486493,Diethyl ether,PTAA,NPB,AgAl,125.67981303516315,0,50; 100-5.0; 10.0,0.956350886890295
+nip,SLG | FTO,SnO2-c,La,Spin-coating,NH4Cl,Rb,Spin-coating,0.7355422273528515,Diethyl ether,PTAA,Li-TFSI,Ag,380.9599221504132,0,100.0-120.0,0.955923585191205
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbAc2,CsPbBr3-np,Spin-coating,0.8139448059272775,Chlorobenzene,PTAA,TAPC,AgAl,93.81268316751522,0,20; 90-30.0; 180.0,0.9557159613868291
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,ITIC,Spin-coating,0.7724883984548325,Chlorobenzene,PTAA,TAPC,AgAl,109.7419248128589,0,60; 100-1.0; 10.0,0.9551812438590309
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2,Rb,Spin-coating,0.8043692637018768,Diethyl ether,PTAA,NPB,AgAl,89.96097003681932,0,60.0-30.0,0.954844164720375
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,NH4Cl,DCL97,Spin-coating,0.8374444043626088,Chlorobenzene,PTAA,LAD,AgAl,262.37622855796064,0,65.0; 100.0-1.0; 5.0,0.9545681897953243
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,PbI2,SnS-QDs,Spin-coating,0.726872791617127,Chlorobenzene,PTAA,O2,AgAl,318.08649613378327,0,100.0-25.0,0.9544711624555652
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Methimazole,Spin-coating,0.8001781288453432,Diethyl ether,PTAA,TAPC,AgAl,112.12508641394294,0,60.0-5.0,0.9544281344236981
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,NH4Cl,Cs,Spin-coating,0.7783054791607941,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,157.29451362202516,0,50; 100-3.0; 10.0,0.954411129819324
+nip,SLG | FTO,SnO2-c,Graphene-QDs,Spin-coating,Pb,PVA,Spin-coating,0.8595842272780081,Chlorobenzene,PTAA,LAD,AgAl,314.6778315703115,0,60; 100-1.0; 7.0,0.9539497122279308
+nip,SLG | FTO,SnO2-np,Potassium O-hexyl xanthate,Spin-coating,PbI2,Isatin-Cl,Spin-coating,0.7596385245792241,Chlorobenzene,PTAA,O2,AgAl,321.6373827911041,0,100.0-15.0,0.9537214086406981
+nip,SLG | FTO,SnO2-np,Potassium O-hexyl xanthate,Spin-coating,Pb,CdCl2,Spin-coating,0.87035207170285,Diethyl ether,PTAA,O2,AgAl,289.75789000490977,0,65.0; 100.0-1.0; 5.0,0.9536772159291571
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,Pb,SnS-QDs,Spin-coating,0.8508829605075059,Chlorobenzene,PTAA,Li-TFSI,AgAl,298.6928220340917,0,100.0-7.0,0.9536460834020399
+nip,SLG | FTO,SnO2-c,Undoped,Evaporation,PbCl2,Graphene oxide,Spin-coating,0.7135927875431795,Chlorobenzene,PTAA,TPFB,AgAl,309.86012506844475,0,100.0-6.0,0.9535603846292251
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbAc2,Ni,Spin-coating,0.8069929699259235,Chlorobenzene,PTAA,TAPC,AgAl,65.4539622730945,0,60; 80-1.5; 2.0,0.9535466547746465
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,CBD | Spin-coating,NH4Cl,FACl,Spin-coating,0.8444819694333502,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Ag,359.0588479210617,0,100.0-144.0,0.9534397644871979
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Diiodooctane,Spin-coating,0.7783452074478534,Chlorobenzene,PTAA,TAPC,Al,78.10331312658579,0,25; 100-10.0; 5.0,0.953383879487537
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2; PbBr2,Diiodooctane,Spin-coating,0.8933360217718191,Chlorobenzene,PTAA,NPB,AgAl,87.98077460830596,0,50; 100-2.0; 10.0,0.9530536931005028
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.7865644953603887,Chlorobenzene,PTAA,NPB,AgAl,93.03556939460101,0,25; 100-10.0; 60.0,0.9529671752243265
+nip,SLG | FTO,TiO2-c,TiCl4,Spin-coating,PbI2,HMTA,Spin-coating,0.9614254213715878,Chlorobenzene,PTAA,Li-TFSI,AgAl,531.9404530782108,0,100.0-15.0,0.9528824502569477
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Mn,Spin-coating,0.8092967388674971,Chlorobenzene,PTAA,TAPC,AgAl,98.67977948899201,0,60; 120-2.0; 15.0,0.9527011495030718
+nip,SLG | FTO,TiO2-c,Undoped,Dipp-coating,PbI2,Caffeine,Spin-coating,0.9510630527015692,Diethyl ether,PTAA,O2,AgAl,526.7453764399606,0,100.0-15.0,0.952697446585345
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,ITIC,Spin-coating,0.7793425411799261,Chlorobenzene,PTAA,TAPC,AgAl,109.06110354311534,0,60; 100-45.0; 50.0,0.9526842681588136
+nip,SLG | FTO,TiO2-c,Samarium,Spin-coating,PbI2,SA-1,Spin-coating,0.9515174020984867,Chlorobenzene,Spiro-MeOTAD,Li-TFSI; TPB,AgAl,134.95287970303025,0,100.0-180.0,0.9526334013640777
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,MA,Spin-coating,0.9712284234627808,Diethyl ether,PTAA,NPB,Ca | Al,387.52833473893224,0,220.0-10.0,0.9523847537336428
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Mn,Spin-coating,0.7288951302342978,Chlorobenzene,PTAA,NPB,AgAl,99.686094087756,0,25; 90-3.0; 5.0,0.9523651243317308
+nip,SLG | FTO,SnO2-np,Potassium O-hexyl xanthate,Spin-coating,PbI2,CdCl2,Spin-coating,0.7719321672752638,Diethyl ether,PTAA,O2,AgAl,344.73917356238695,0,100.0-15.0,0.9522052255256468
+nip,SLG | FTO,TiO2-c,Zr,Spin-coating,Pb,CsI,Spin-coating,0.7322295438960065,Diethyl ether,PTAA,Li-TFSI; TBP,MoO3 | Au,396.8720221325155,0,100.0-240.0,0.9521822077533129
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,ITIC,Spin-coating,0.8597127823209129,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,223.42104927490757,0,60.0-2.0,0.9520530047989338
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,NH4Cl,Ni,Spin-coating,0.7410374729401361,Chlorobenzene,PTAA,Li-TFSI,AgAl,173.27624794273498,0,60.0-150.0,0.9520192753696161
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.7498065412120297,Chlorobenzene,PTAA,PolyTPD,AgAl,87.97977129935894,0,60; 100-45.0; 50.0,0.9520117943539265
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DCL97,Spin-coating,0.8032707929147677,Chlorobenzene,PTAA,TAPC,Al,104.69484134958604,0,25; 100-5.0; 10.0,0.9518643114769179
+nip,SLG | FTO,SnO2-c,Li,Spin-coating,Pb,PbAc,Spin-coating,0.8071438628603914,Chlorobenzene,PTAA,Li-TFSI,Ag,301.2068438924474,0,100.0-144.0,0.9517697770278577
+nip,SLG | FTO,SnO2-np,Undoped,Spin-coating,Pb,KSCN,Spin-coating,0.7781703360654287,Chlorobenzene,PTAA,Li-TFSI,Al,316.3309961185282,0,60; 80-1.5; 2.0,0.9513872075899567
+nip,SLG | FTO,SnO2-c,La,Spin-coating,NH4Cl,DA2PbI4,Spin-coating,0.7206776978468032,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Ag,381.97610676581326,0,100.0-144.0,0.9513658355755521
+nip,SLG | FTO,TiO2-c,Fe,Spin-coating,PbI2,PbAc2,Spin-coating,0.9480838950060352,Diethyl ether,PTAA,Li-TFSI,AgAl,126.08490615638638,0,100.0-8.0,0.9513597071968252
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,HATNA,Spin-coating,0.9769507572990347,Diethyl ether,PTAA,TAPC,AgAl,377.57750477747885,0,25; 90-30.0; 150.0,0.9512143662381563
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Cs,Spin-coating,0.7171409231065812,Diethyl ether,PTAA,F8BT,AgAl,86.89183979243704,0,65.0; 100.0-2.0; 3.0,0.9512071676710848
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,AgI,Spin-coating >> CBD,0.7631179417916064,Chlorobenzene,PTAA,TAPC,AgAl,97.86208256424551,0,60; 100-15.0; 30.0,0.9511638276059489
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,DA2PbI4,Spin-coating,0.7419541167962017,Chlorobenzene,PTAA,PolyTPD,AgAl,107.26332167060116,0,65; 100-1.0; 15.0,0.951023521420754
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Mn,Spin-coating,0.7452639002620597,Chlorobenzene,PTAA,TAPC,AgAl,76.53674772316825,0,60; 80-1.0; 80.0,0.9509785565227014
+nip,SLG | FTO,SnO2-np,Guanidinium chloride,Spin-coating,PbI2,FEAI,Spin-coating,0.7877783821341606,Chlorobenzene,PTAA,O2,AgAl,350.45792739258366,0,100.0-180.0,0.9505409859797933
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,NMA,Spin-coating,0.9110611628054055,Diethyl ether,PTAA,NPB,AgAl,413.25396878118755,0,60; 100-0.33; 10.0,0.9505171931959777
+nip,SLG | FTO,TiO2-c,Cs,Spin-coating,PbI2,PEG-[60]fullerenes,Spin-coating,0.9347682175905393,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,106.90815984180017,0,100.0-80.0,0.9504453623794944
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Methimazole,Spin-coating,0.9128624480690888,Diethyl ether,PTAA,NPB,Al,545.7365469779404,0,60; 100-1.0; 5.0,0.9503840448820853
+nip,SLG | FTO,SnO2-np,Guanidinium chloride,Spin-coating,NH4Cl,DA2PbI4,Spin-coating,0.8747828774946771,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,277.7762219308739,0,60; 100-4.0; 10.0,0.9503618505225709
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,none,Rb,Spin-coating,0.9662997608584168,Diethyl ether,PTAA,TAPC,AgAl,356.8338478093364,0,25; 100-10.0; 10.0,0.9503547493520729
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbAc2,Ni,Spin-coating,0.8165092685075618,Chlorobenzene,PTAA,NPB,AgAl,61.658363310228935,0,60; 100-1.0; 5.0,0.9503346088086296
+nip,SLG | FTO,TiO2-c,CF3NaO2S,Spin-coating,PbI2,SQ81,Spin-coating,0.9158938924794029,Ethyl acetate,PTAA,Li-TFSI; TBP,AgAl,114.12735793350352,0,100.0; 100-10.0; 15.0,0.9501538700130869
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Pb,Rb,Spin-coating,0.8128405153009808,Chlorobenzene,PTAA,NPB,AgAl,84.75199660119475,0,60-30.0,0.9499419092008929
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2; PbBr2,MA,Spin-coating,0.8184476322746311,Diethyl ether,PTAA,PolyTPD,Al,108.67299385306868,0,60.0-120.0,0.9496665939234783
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,PbCl2,Diiodooctane,Spin-coating >> CBD,0.7880934129666497,Chlorobenzene,PTAA,PolyTPD,AgAl,60.4428844004435,0,60; 80-1.0; 80.0,0.9496379989745973
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,none,Methimazole,Spin-coating,0.9046071060094688,Diethyl ether,PTAA,TAPC,Ca | Al,283.404176534191,0,60; 100-1.0; 7.0,0.9495083049495773
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbAc2,DMI,Spin-coating,0.7130246723919437,Diethyl ether,PTAA,F4-TCNQ,AgAl,95.19438915758147,0,60.0; 80.0-1.0; 2.0,0.9494882851443623
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,CBD | Spin-coating,NH4Cl,KSCN,Spin-coating,0.7647679569812885,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Ag,270.43155455040545,0,100.0-30.0,0.9494069546711551
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,ITIC,Spin-coating,0.7606434897671979,Chlorobenzene,PTAA,TAPC,AgAl,78.91654681479261,0,60.0-90.0,0.9492719389667224
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,none,MA,Spin-coating,0.7534567414972146,Diethyl ether,PTAA,NPB,Ag,102.22922736837987,1,60; 80-1.0; 2.0,0.9491366343070432
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,CBD | Spin-coating,NH4Cl,PMA,Spin-coating,0.8133799056597827,Diethyl ether,PTAA,LAD,AgAl,265.6106183024194,0,120.0-50.0,0.9491207072825377
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Diiodooctane,Spin-coating,0.799190369816632,Chlorobenzene,PTAA,TAPC,AgAl,102.38718956735748,0,60.0-120.0,0.9489351441252024
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,NH4Cl,Diiodooctane,Spin-coating >> CBD,0.8357508035775124,Chlorobenzene,PTAA,NPB,AgAl,77.45674738842018,0,60.0-20.0,0.9487298079853491
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,NMA,Spin-coating,0.7334903398041205,Diethyl ether,PTAA,NPB,Al,303.99064121092647,0,60; 100-15.0; 30.0,0.9487164036937891
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,MA,Spin-coating,0.7446716464749414,Diethyl ether,PTAA,NPB,AgAl,131.34191644191975,0,25; 90-30.0; 150.0,0.9487114846713808
+nip,SLG | FTO,TiO2-c,Fe,Spin-coating,PbI2,HMTA,Spin-coating,0.909938344363416,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,109.77599255152184,0,100.0-70.0,0.9484980989657206
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbI2,MA,Spin-coating,0.7673206827246614,Diethyl ether,PTAA,F4-TCNQ,AgAl,103.51284286372193,0,60.0-90.0,0.9482661154711366
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,NH4Cl,DCL97,Spin-coating,0.7299869565434576,Chlorobenzene,PTAA,Li-TFSI,Ag,409.1433618279636,0,100.0-2.0,0.9482127498476965
+nip,SLG | FTO,TiO2-c,Undoped,Dipp-coating,PbI2,PVP,Spin-coating,0.6026071478983882,Diethyl ether,PTAA,O2,AgAl,78.20094235735262,0,100; 100-10.0; 90.0,0.9480712360972167
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,ITIC,Spin-coating,0.8217123254151315,Chlorobenzene,PTAA,TAPC,AgAl,93.60843189786887,0,240.0-0.1,0.9480388322936265
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,PMA,Spin-coating,0.9565300986244216,Diethyl ether,PTAA,NPB,Ca | Al,383.13419250770727,0,60; 100-1.0; 2.0,0.9478076145763656
+nip,SLG | FTO,TiO2-c,Li-TFSI; TiCl4,Spin-coating,PbI2; PbBr2,HMTA,Spin-coating,0.6397294586000051,Chlorobenzene,PTAA,Li-TFSI,AgAl,85.85581650169364,0,100.0-70.0,0.9477905745092817
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Spin-coating,NH4Cl,HATNA,Spin-coating,0.8483193174283803,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,188.74312748724614,0,65.0; 100-3.0; 10.0,0.947620804705395
+nip,SLG | FTO,TiO2-c,Ag,Spin-coating,PbI2,EAPP,Spin-coating,0.9012767563458092,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,93.46033897523186,0,100.0; 140.0-15.0; 60.0,0.9475383820173292
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,Polyurethane,Spin-coating,0.9390848090234755,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,127.08551169650414,0,100.0-144.0,0.9474927298953676
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,CsPbBr3-np,Spin-coating,0.8492151504713731,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Ag,480.40829655580893,0,100.0-60.0,0.9474617392357491
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,PMA,Spin-coating,0.7867264592681719,Diethyl ether,PTAA,PolyTPD,AgAl,383.63024668684756,0,60; 80-1.5; 2.0,0.9471486533318998
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Rb,Spin-coating,0.7493870185137221,Diethyl ether,PTAA,F8BT,AgAl,99.4821689109178,0,60; 100-2.0; 5.0,0.946776514196523
+nip,SLG | FTO,SnO2-np,Zr,Spin-coating,NH4Cl,DA2PbI4,Spin-coating,0.8101339616304235,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,282.76410648647425,0,65.0; 100.0-5.0; 10.0,0.9466526745692272
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation | Evaporation,PbI2; PbBr2,NMA,Spin-coating,0.795346206570179,Diethyl ether,PTAA,PolyTPD,AgAl,87.56822020040507,0,60; 120-2.0; 15.0,0.9465782553967241
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,MAI,Diiodooctane,Spin-coating >> CBD,0.7653074450022166,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,231.23094389838138,0,60; 120-2.0; 15.0,0.9465475087758561
+nip,SLG | FTO,TiO2-c,Li-TFSI; TiCl4,Spin-coating,PbI2,TMS,Spin-coating,0.9704370909458767,Diethyl ether,PTAA,LAD,AgAl,167.24277351041033,0,100.0-100.0,0.9464400032283702
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,NMA,Spin-coating,0.7898126717221925,Diethyl ether,PTAA,TAPC,AgAl,380.09913333341103,0,60; 80-2.0; 5.0,0.9464158493041707
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,MA,Spin-coating,0.7284165055753821,Diethyl ether,PTAA,NPB,Al,493.83146174197975,0,65.0-20.0,0.946334902042988
+nip,SLG | FTO,SnO2-c,La,Spin-coating,NH4Cl,Mn,Spin-coating,0.7406885648532014,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Ag,400.0590934498683,0,100.0-23.0,0.9463064584834087
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Rb,Spin-coating,0.8165957689482493,Diethyl ether,PTAA,NPB,AgAl,124.069525452454,0,135.0-15.0,0.9462494386583876
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Mn,Spin-coating,0.784231165772018,Chlorobenzene,PTAA,TAPC,AgAl,110.38537139306771,0,60; 100-1.0; 7.0,0.9461724562742921
+pin,SLG | FTO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Carbon-nt,Spin-coating,0.7237833666280011,Chlorobenzene,PTAA,TAPC,AgAl,114.76261649652278,0,50.0-45.0,0.9461671290334305
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Pb,Rb,Spin-coating,0.8333208540387388,Chlorobenzene,PTAA,NPB,AgAl,68.1018084946172,0,60-30.0,0.9461592141373629
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,TMS,Spin-coating,0.9831780100028984,Diethyl ether,PTAA,LAD,AgAl,509.60436070466903,0,100.0-120.0,0.9459283808647421
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,Phenylethylammonium iodide,Spin-coating >> CBD,0.8363425208422083,Diethyl ether,PTAA,F8BT,AgAl,96.0761320920725,0,50; 100-5.0; 10.0,0.9457980870325936
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.9610876525140263,Chlorobenzene,PTAA,TAPC,AgAl,359.4447017017752,0,60; 100-2.0; 5.0,0.9457571015935603
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,Pb,PVA,Spin-coating,0.8597930399857374,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,277.1523514704615,0,65-2.0,0.9456378481362724
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,CBD | Spin-coating,PbI2,CNDs@K,Spin-coating,0.9837978313408172,Diethyl ether,PTAA,Li-TFSI; TBP,AgAl,322.9665249303239,0,100.0-12.0,0.9453696130396445
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Evaporation,NH4Cl,Rb,Spin-coating,0.8096424650106159,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,Ag,397.1076150025347,0,95.0-40.0,0.9452819776568068
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,NH4Cl,PVA,Spin-coating,0.7345262384595247,Chlorobenzene,PTAA,O2,AgAl,310.4405029519182,0,100.0-2.0,0.9452597990285112
+nip,SLG | FTO,SnO2-np,Zr,Spin-coating,NH4Cl,ITIC; PCBM-60,Spin-coating,0.8066108234576345,Chlorobenzene,PTAA,LAD,AgAl,402.3400674801489,0,150; 100-5.0; 20.0,0.9451668999285063
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbI2; PbBr2,Carbon-nt,Spin-coating,0.7293029997198902,Chlorobenzene,PTAA,TAPC,AgAl,112.2625937420509,0,60-60.0,0.9451664056759509
+nip,SLG | FTO,TiO2-c,Undoped,Spin-coating | Spin-coating,PbI2,Phenylethyl ammonium iodide,Spin-coating,0.9868638220454913,Chlorobenzene,PTAA,Li-TFSI,AgAl,121.58999380878706,0,100.0-3.0,0.9451612611941788
+nip,SLG | FTO,SnO2-np,Guanidinium chloride,Spin-coating,PbCl2,FeOOH-QDs,Spin-coating,0.7128466899710159,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,204.06155890533864,0,100.0-12.0,0.9450984893084386
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,NH4I,Spin-coating,0.8916709534414868,Chlorobenzene,PTAA,TAPC,AgAl,381.47696560157334,0,60; 100-15.0; 30.0,0.9446921256676066
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Carbon-nt,Spin-coating,0.7120929886830392,Chlorobenzene,PTAA,NPB,Al,105.54699718387435,0,60.0-30.0,0.9445694637060058
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,Pb,Isatin-Cl,Spin-coating,0.8467721797799875,Chlorobenzene,PTAA,LAD,Ag,315.9938948647073,0,60; 100-15.0; 30.0,0.9445559391869435
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating,PbI2,NH4I,Spin-coating >> CBD,0.9149646639706019,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,86.30565389005693,0,100.0-9.0,0.944512776876101
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2,Diiodooctane,Spin-coating,0.9479417837710703,Chlorobenzene,PTAA,TAPC,AgAl,525.2369129499091,0,150.0-20.0,0.9445074403196176
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Evaporation,NH4Cl,Graphene oxide,Spin-coating,0.7808775465524004,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Ag,369.5614230141646,0,100.0-5.0,0.9444102120346779
+nip,SLG | FTO,SnO2-np,Zr,Spin-coating,NH4Cl,Cs,Spin-coating,0.8396637613555826,Diethyl ether,PTAA,Li-TFSI,AgAl,163.35742051669234,0,70.0-20.0,0.9443946312891359
+nip,SLG | FTO,TiO2-c,CF3NaO2S,Spin-coating,PbI2,CNDs@K,Spin-coating,0.9356510248228617,Diethyl ether,PTAA,Li-TFSI; TBP,AgAl,99.47025930881826,0,100.0-80.0,0.9441668058798097
+nip,SLG | FTO,SnO2-np,Potassium O-hexyl xanthate,Spin-coating,NH4Cl,CdCl2,Spin-coating,0.7912031196231512,Diethyl ether,PTAA,O2,Ag,410.74251146859825,0,100.0-55.0,0.9439309959589619
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Diiodooctane,Spin-coating,0.8658665861479866,Chlorobenzene,PTAA,TAPC,AgAl,106.41769977939582,0,60; 100-2.0; 10.0,0.9438014390976377
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbAc2,FACl,Spin-coating,0.7055850353886229,Chlorobenzene,PTAA,PolyTPD,AgAl,77.81890021257301,0,50; 100-5.0; 10.0,0.943556892437524
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,NH4Cl,FACl,Spin-coating,0.8259424505993911,Chlorobenzene,PTAA,O2,Ag,356.99474266068904,0,100.0-15.0,0.9435035543688782
+pin,SLG | ITO,SnO2-np,Undoped,Spin-coating,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.766846175396291,Chlorobenzene,PTAA,NPB,AgAl,85.97466041879126,0,150.0-5.0,0.9433327693578384
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,AgI,Spin-coating >> CBD,0.8608078387463308,Chlorobenzene,PTAA,TAPC,AgAl,70.15369590708225,0,50; 85-2.0; 25.0,0.9433299020306469
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating,PbI2,PU,Spin-coating,0.9712251178638691,Diethyl ether,PTAA,TPFB,AgAl,139.36781764643635,0,100.0-20.0,0.9432626805133246
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbI2,ITIC; PCBM-60,Spin-coating,0.7361998782616065,Chlorobenzene,PTAA,NPB,AgAl,61.847643284836245,0,25; 100-30.0; 90.0,0.9429726569571975
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Carbon-nt,Spin-coating,0.7977413370098954,Chlorobenzene,PTAA,NPB,AgAl,119.45903026504982,0,60; 80-1.0; 2.0,0.9429486488527339
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Diiodooctane,Spin-coating,0.8058298640400572,Chlorobenzene,PTAA,NPB,Ag,81.75014497522714,0,25; 85-15.0; 50.0,0.9429280631983132
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,Pb,PbAc,Spin-coating,0.7717399068696854,Chlorobenzene,PTAA,TPFB,AgAl,323.8716288807804,0,100.0-180.0,0.9421239407140082
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,CsPbBr3-np,Spin-coating,0.8136377401905963,Chlorobenzene,PTAA,Li-TFSI,Ag,303.5824390366927,0,100.0-100.0,0.9421082604489454
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2,Cl; ITIC,Spin-coating,0.8189429673077585,Chlorobenzene,PTAA,NPB,AgAl,101.50112336654723,0,60; 100-0.33; 10.0,0.9420391718779826
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,PbCl2,Graphene oxide,Spin-coating,0.736792594783728,Diethyl ether,PTAA,O2,AgAl,329.611757768079,1,100.0-60.0,0.9419459277819645
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,NH4Cl,ITIC; PCBM-60,Spin-coating,0.8026736831614959,Chlorobenzene,PTAA,NPB,AgAl,88.35700344953914,0,60-30.0,0.9419259349267767
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,CH2I2,Spin-coating,0.8507625139785631,Chlorobenzene,PTAA,NPB,Al,118.37772982499843,0,60; 100-2.0; 5.0,0.9418924368464652
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Evaporation,NH4Cl,Carbon-nt,Spin-coating,0.8808863895763128,Chlorobenzene,PTAA,LAD,Al,288.5048157625116,0,65; 100-1.0; 30.0,0.9418353615729425
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2; PbBr2,Mn,Spin-coating,0.9015922080784654,Chlorobenzene,PTAA,PolyTPD,AgAl,104.02016831994955,0,60.0-2.0,0.9416863566306368
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,NH4Cl,Diiodooctane,Spin-coating >> CBD,0.8303964705271109,Chlorobenzene,PTAA,Li-TFSI,AgAl,174.07379598494057,0,60; 100-1.0; 10.0,0.9415622009147031
+nip,SLG | FTO,SnO2-np,Undoped,Spin-coating,PbI2; PbBr2,CsPbBr3-np,Spin-coating,0.7216935142135933,Chlorobenzene,PTAA,TPFB,AgAl,332.2632245709163,0,100.0-240.0,0.9414113305549
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,Stoichiometric,DMSO,Spin-coating,0.9529655991854415,Diethyl ether,PTAA,PolyTPD,Cu,372.12266757429785,0,60; 100-10.0; 15.0,0.9411650274655046
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,Rb,Drop-infiltration >> CBD,0.8535914319716706,Chlorobenzene,PTAA,NPB,AgAl,94.6918871603429,0,60; 110-1.0; 10.0,0.9409828157263577
+nip,SLG | FTO,TiO2-c,CF3NaO2S,Spin-coating,PbI2,TMS,Spin-coating,0.9712438243785062,Diethyl ether,PTAA,Li-TFSI,AgAl,152.8436586282393,0,100.0-144.0,0.9408914827007042
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DA2PbI4,Spin-coating,0.7151292618638864,Chlorobenzene,PTAA,TAPC,AgAl,380.6635022532738,0,60; 120-2.0; 15.0,0.9408366777513018
+nip,SLG | FTO,TiO2-c,Zr,Spin-coating,PbI2,EtOH; MA,Spin-coating,0.9143757531369423,Diethyl ether,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Au,448.81551680949684,0,100.0-144.0,0.9407787510344465
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,PbI2; PbBr2,Cl; NiO-np,Spin-coating,0.8030041536493701,Chlorobenzene,PTAA,TAPC,AgAl,66.12418853611253,0,60.0; 100.0-5.0; 10.0,0.9407411769835035
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,none,PMA,Spin-coating,0.9797173446100572,Diethyl ether,PTAA,TAPC,AgAl,323.89017449999733,0,90-30.0,0.9404866024116374
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Rb,Drop-infiltration >> CBD,0.7744369744050976,Chlorobenzene,PTAA,TAPC,AgAl,88.87874582627487,0,60.0; 80-1.0; 5.0,0.940430909247254
+nip,SLG | FTO,TiO2-c,Ag,Spin-coating,PbI2,CNDs@K,Spin-coating,0.9774432942156769,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,137.0161868911114,0,100.0-100.0,0.9404258673225705
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.765141313825132,Chlorobenzene,PTAA,NPB,AgAl,94.09589487975366,0,65.0; 100-1.0; 10.0,0.940336938475226
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,MACSN,Spin-coating,0.9576541039465977,Chlorobenzene,PTAA,NPB,AgAl,358.7096260467251,0,50.0; 80-3.0; 30.0,0.9402359743218294
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,none,PMA,Spin-coating,0.9808132735153966,Diethyl ether,PTAA,F8BT,AgAl,252.52950878141613,0,65.0; 100.0-1.0; 5.0,0.9402194702823577
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,PbC2N2S2,Spin-coating,0.8955976773928498,Chlorobenzene,PTAA,NPB,AgAl,250.38752830177543,0,100.0-150.0,0.9401810884324943
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation | Evaporation,PbI2; PbBr2,ITIC; PCBM-60,Spin-coating,0.7568975492120438,Chlorobenzene,PTAA,TAPC,AgAl,90.55489542059397,0,25; 100-10.0; 60.0,0.9400921761047182
+pin,SLG | FTO,C60 | BCP,Undoped,Evaporation,Stoichiometric,OTAB,Spin-coating,0.7699104030834589,Chlorobenzene,PTAA,TAPC,AgAl,108.72743021224473,0,60.0; 100.0-5.0; 10.0,0.9400336132122361
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2; PbBr2,EC,Spin-coating,0.9363004089867237,Diethyl ether,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Al,453.62439322059953,0,100.0-600.0,0.9399845349302948
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,HATNA,Spin-coating,0.7850704450900604,Diethyl ether,PTAA,F8BT,AgAl,95.33562511999895,0,60; 100-2.0; 10.0,0.9399001328654049
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DA2PbI4,Drop-infiltration,0.9160226069571391,Chlorobenzene,PTAA,PolyTPD,AgAl,131.6780636052662,0,65.0-20.0,0.9398599777676079
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Rb,Drop-infiltration,0.7784808229225102,Chlorobenzene,PTAA,TAPC,AgAl,77.34915710607615,0,60; 100-1.0; 60.0,0.9397916482105713
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,none,Phenylethylammonium iodide,Spin-coating,0.9404174470455319,Diethyl ether,PTAA,PolyTPD,AgAl,368.9811907986058,0,65; 100-2.0; 2.0,0.9397037961647922
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbAc2,Mn,Spin-coating,0.725188081081214,Chlorobenzene,PTAA,PolyTPD,AgAl,77.17291759401465,0,50.0; 150.0-3.0; 5.0,0.9396665817539974
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Evaporation,PbI2,DPSI,Spin-coating,0.763572203982308,Toluene,PTAA,O2,AgAl,293.5402064836039,0,100.0-1.0,0.9395816506890073
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Cs,Spin-coating,0.2849807160269999,Diethyl ether,PTAA,NPB,AgAl,95.91549237194316,0,25.0-720.0,0.9395481399885445
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,none,NMA,Spin-coating,0.9461166348066247,Diethyl ether,PTAA,PolyTPD,Ca | Al,205.69664898196433,0,60; 100-0.5; 5.0,0.9394343839534937
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbCl2,Rb,Drop-infiltration,0.7712237482906175,Chlorobenzene,PTAA,NPB,AgAl,86.51461070660608,0,60; 100-1.0; 5.0,0.9391980516308706
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Mn,Spin-coating,0.8067386997214355,Chlorobenzene,PTAA,TAPC,AgAl,55.1817805714642,0,65.0-10.0,0.939141929350008
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DCL97,Spin-coating,0.839105326137126,Chlorobenzene,PTAA,NPB,AgAl,92.62286181166888,0,25.0-5.0,0.9390925523227114
+nip,SLG | FTO,TiO2-c,Cs,Spin-coating,PbI2,GuaI,Spin-coating,0.9833178626038006,Chlorobenzene,PTAA,LAD,AgAl,135.99479341607852,0,100.0-20.0,0.9389826125745673
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Phenylethylammonium iodide,Spin-coating >> CBD,0.9261371370555864,Diethyl ether,PTAA,F4-TCNQ,AgAl,147.0463417726932,0,60.0; 100.0-5.0; 10.0,0.9388387942415651
+nip,SLG | FTO,TiO2-c,Y,Spin-coating,PbCl2,EtOH; MA,Spin-coating,0.7336232587798427,Diethyl ether,Spiro-MeOTAD,Spiro-(TFSI)2,MoO3 | Au,439.9501622084087,0,100.0-150.0,0.9387463294104219
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Cl; DPE,Spin-coating >> CBD,0.8361041622622707,Chlorobenzene,PTAA,NPB,Ag,97.26072033000443,0,65.0; 100.0-1.0; 2.0,0.938600099544781
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,DA2PbI4,Spin-coating,0.9087811317493102,Chlorobenzene,PTAA,TAPC,AgAl,202.37470666145813,0,65.0-3.0,0.9385305463666216
+nip,SLG | FTO,TiO2-c,Ethanolamine,Spin-coating,PbCl2,CsPbBr-np,Spin-coating,0.7256067845220395,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Al,525.9271018106127,0,100.0-25.0,0.938498313906145
+nip,SLG | FTO,TiO2-c,Cs,Spin-coating,PbI2,CNDs@K,Spin-coating,0.9506859779082288,Diethyl ether,PTAA,LAD,AgAl,172.1774430691167,0,100.0-105.0,0.9384882386462636
+nip,SLG | FTO,TiO2-c,Undoped,Spin-coating,PbI2,Phenylethyl ammonium iodide,Spin-coating,0.9657517735544251,Chlorobenzene,PTAA,Li-TFSI,AgAl,151.31259596695335,0,100.0-100.0,0.9383624237118144
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Caffeine,Spin-coating,0.2648745261960676,Diethyl ether,PTAA,NPB,Al,78.0181222423361,0,60; 100-45.0; 50.0,0.9383249802636986
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,PbAc2,DCL97,Spin-coating,0.7254999178074447,Chlorobenzene,PTAA,TAPC,AgAl,80.24443192450553,0,60; 80-2.0; 5.0,0.9382530015059566
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,PbC2N2S2,Spin-coating,0.8739097793937255,Chlorobenzene,PTAA,TAPC,Al,124.75249998374139,0,65.0-10.0,0.9382022774788673
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,DA2PbI4,Drop-infiltration,0.884031605734415,Chlorobenzene,PTAA,LAD,AgAl,208.76296362026557,0,60; 100-1.0; 2.0,0.9380714023228259
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,MA,Spin-coating,0.9663433076145053,Diethyl ether,PTAA,F8BT,Ca | Al,396.21399145119085,0,60.0; 85.0-1.0; 25.0,0.9380643388134983
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,SP-3D-COF 1,Spin-coating,0.7793584977426787,Chlorobenzene,PTAA,PolyTPD,Al,191.37997032103868,0,60; 100-3.0; 20.0,0.9377505923087218
+nip,SLG | FTO,SnO2-c,Graphene-QDs,Spin-coating,PbCl2,KSCN,Spin-coating,0.7060938665898406,Chlorobenzene,PTAA,TPFB,AgAl,341.41709562706285,0,100.0-110.0,0.9377128366816535
+nip,SLG | FTO,TiO2-c,TiCl4,Spin-coating,PbI2,TDZDT,Spin-coating,0.7200072329919409,Chlorobenzene,PTAA,O2,AgAl,319.5085049455093,0,100.0-8.0,0.9373978674941089
+pin,SLG | ITO,PCBM-60 | Bphen,Undoped,Spin-coating | Spin-coating,NH4Cl,KSCN,Spin-coating,0.8325828352158382,Chlorobenzene,PTAA,NPB,AgAl,68.90093953421653,0,60.0-5.0,0.9371528597200018
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,TDZDT,Spin-coating,0.9383464518955467,Chlorobenzene,PTAA,O2,Ag,124.02029850448483,0,100.0-3.0,0.9370838258069145
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Rb,Spin-coating,0.7156030770914252,Diethyl ether,PTAA,F8BT,AgAl,68.88417774318171,0,60; 85-1.0; 25.0,0.9369945846222134
+nip,SLG | FTO,TiO2-c,Li-TFSI; TiCl4,Spin-coating,PbI2,TMS,Spin-coating,0.9765184279410439,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,143.1706856833768,0,0.0; 90.0-10.0; 50.0,0.9368097271198398
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Rb,Spin-coating,0.7778070508908995,Diethyl ether,PTAA,F8BT,AgAl,127.93322309887284,0,25; 100-5.0; 10.0,0.9367737845453779
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Agarose,Spin-coating,0.7616033277736859,Ethyl acetate,PTAA,NPB,Ag,124.86684552597512,0,60; 100-1.0; 4.0,0.9365223404630356
+nip,SLG | FTO,TiO2-c,Galliumnitrate hydrate,Spin-coating,PbI2,PAA,Spin-coating,0.9624389940170961,Diethyl ether,PTAA,TPFB,AgAl,130.5801779970312,0,100.0-15.0,0.9365200162449027
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Diiodooctane,Spin-coating,0.7698125922600559,Chlorobenzene,PTAA,TAPC,AgAl,148.09528458612215,0,140.0-15.0,0.9361499588106595
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,DCL97,Spin-coating,0.8954273342548299,Chlorobenzene,PTAA,NPB,Al,321.4779590032306,0,65.0-1.0,0.9361415860188349
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,FACl,Spin-coating,0.7817033466350459,Chlorobenzene,PTAA,TPFB,Al,315.3301342799213,0,100.0-150.0,0.9360838264981193
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2,Hexamethylphosphoramide,Spin-coating,0.9228289908111387,Chlorobenzene,PTAA,O2,Ag,186.2529680533102,0,100.0-6.0,0.9360573217438821
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,none,MACSN,Spin-coating,0.9458640413010417,Chlorobenzene,PTAA,PolyTPD,AgAl,386.415850121504,0,65.0; 100-3.0; 10.0,0.9360240736542697
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,CuSCN,Spin-coating,0.9543973195603382,Chlorobenzene,PTAA,NPB,Ca | Al,214.40847163315584,0,40; 100-2.0; 10.0,0.9359182806086512
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,MA,Spin-coating,0.8103672190409408,Diethyl ether,PTAA,NPB,AgAl,338.664596108075,0,70.0-15.0,0.9355366477912661
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,CBD | Spin-coating,MAI,DCL97,Spin-coating,0.7935299263835673,Chlorobenzene,PTAA,O2,AgAl,368.55587845970797,0,65.0; 100-1.0; 10.0,0.9353248946945117
+nip,SLG | FTO,SnO2-np,Guanidinium chloride,Spin-coating,PbI2,MOF,Doctor blading,0.7634372809434177,Toluene,PTAA,O2,AgAl,340.2459731108482,0,100.0-240.0,0.9351122857927763
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,FABr,Spin-coating,0.9003385292686737,Chlorobenzene,PTAA,TAPC,AgAl,247.33812638126452,0,25.0-10.0,0.9350647979399511
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,MA,Spin-coating,0.7369315077638262,Diethyl ether,PTAA,NPB,AgAl,138.01079649201642,0,60; 80-1.0; 2.0,0.9350003553826166
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,MACSN,Spin-coating,0.7608836350010705,Chlorobenzene,PTAA,NPB,Ag,115.23486318131205,0,60.0-45.0,0.9349523540082962
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,E2CA,Spin-coating,0.7014193499053355,Chlorobenzene,PTAA,NPB,AgAl,72.64037828287206,0,65.0; 100.0-2.0; 3.0,0.9348065412139192
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,none,Diiodooctane,Spin-coating >> CBD,0.8783417691713561,Chlorobenzene,PTAA,TAPC,AgAl,375.40837348769725,0,25.0-10.0,0.9345493118920554
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,HATNA,Spin-coating,0.7193082636819697,Diethyl ether,PTAA,TAPC,MoO3 | Au,168.23407772067821,0,60.0; 80.0-1.0; 2.0,0.9344934136878166
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,PbI2,Phenylethyl ammonium iodide,Spin-coating,0.23770466777500843,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,77.52441860692409,0,100.0-35.0,0.9343637576773035
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,none,Diiodooctane,Spin-coating >> CBD,0.8556830611569511,Chlorobenzene,PTAA,TAPC,Al,377.4294534080444,0,25; 60-20.0; 40.0,0.9342770240568646
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,SrI2,Spin-coating,0.8321764412583383,Chlorobenzene,PTAA,TAPC,AgAl,135.94806286285782,0,60; 100-0.5; 5.0,0.9342400011436547
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Methimazole,Spin-coating,0.8524312501125254,Diethyl ether,PTAA,F4-TCNQ,Ag,101.8160664014574,0,70-30.0,0.9340680116248423
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,KI,Spin-coating,0.8458508236157147,Diethyl ether,PTAA,PolyTPD,Al,393.1138137372954,0,160.0-10.0,0.9340249754587857
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,beta-cyclodextrin,Spin-coating,0.7777986641536081,Chlorobenzene,PTAA,F8BT,AgAl,92.15564321637939,0,60; 100-10.0; 15.0,0.9338426962062178
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,FU11,Spin-coating,0.8892727625365445,Chlorobenzene,PTAA,TAPC,Al,233.01481147732258,0,170-15.0,0.9337140694852646
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,HATNA,Spin-coating,0.8718692369245971,Diethyl ether,PTAA,PolyTPD,AgAl,401.45856808682214,0,50; 100-3.0; 10.0,0.9336718489605299
+nip,SLG | FTO,TiO2-c,TiCl4,Spin-coating,PbI2,Phenylethyl ammonium iodide,Spin-coating,0.9212635275465292,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,366.01957826555866,0,100.0; 140.0-15.0; 60.0,0.933625750398265
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating,PbI2,PEAI,Spin-coating,0.9099610169572087,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,78.44672732087616,0,105.0-45.0,0.9333002393664331
+nip,SLG | FTO,TiO2-c,Undoped,E-beam evaporation,PbI2,Thiourea,Spin-coating,0.9848359575867778,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,373.38112036126165,0,100.0-5.0,0.933195081759447
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,PbC2N2S2,Spin-coating,0.8004279221285217,Chlorobenzene,PTAA,PolyTPD,AgAl,119.7362323406818,0,60; 80-2.0; 5.0,0.9331221222874683
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Rb,Drop-infiltration,0.73887702258044,Chlorobenzene,PTAA,TAPC,AgAl,89.13416288105032,0,60; 100-15.0; 30.0,0.9330767829273521
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Phenylethylammonium iodide,Spin-coating >> CBD,0.8102743758694053,Diethyl ether,PTAA,F4-TCNQ,Ag,98.59409863951853,0,60-30.0,0.9330110764555266
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,Pb,E2CA,Spin-coating,0.7064694170500191,Chlorobenzene,PTAA,TPFB,AgAl,297.1428659109434,0,60; 100-1.0; 10.0,0.9329683406653577
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation | Evaporation,PbCl2,SrI2,Spin-coating,0.8887689662268154,Chlorobenzene,PTAA,TAPC,AgAl,115.8833806616538,0,50; 100-5.0; 5.0,0.9328884461464346
+nip,SLG | FTO,TiO2-c,Undoped,Evaporation,PbI2,HMTA,Spin-coating,0.9516533093825468,Chlorobenzene,PTAA,LAD,AgAl,152.867756653465,0,100.0-10.0,0.9328228900505134
+nip,SLG | FTO,TiO2-c,Tantalum(V) ethoxide,Spin-coating,PbCl2,EtOH; MA,Spin-coating,0.9482950778719016,Chlorobenzene,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Au,469.60101309167044,0,100.0-120.0,0.932813217003669
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating | Spin-coating,PbI2,H2O; Ti3C2Tx,Spin-coating,0.9746122323915384,Ethyl acetate,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,389.06936722586744,0,100.0-5.0,0.9326844372867944
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbI2,Rb,Drop-infiltration,0.7386108234530663,Chlorobenzene,PTAA,NPB,AgAl,84.89589308871027,0,50; 100-5.0; 10.0,0.9325098376253512
+pin,SLG | ITO,PCBM-60 | BCP,Undoped,Spin-coating | Evaporation,PbI2; PbBr2,PMA,Spin-coating,0.8540309768845359,Diethyl ether,PTAA,F4-TCNQ,AgAl,502.52125058808394,0,65.0; 100.0-1.0; 30.0,0.9324703341864936
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,none,DCL97,Spin-coating,0.7481604449610728,Chlorobenzene,PTAA,NPB,AgAl,332.6462095865695,0,60-30.0,0.9323420699196051
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,CsPbBr-np,Spin-coating,0.9718491350276365,Chlorobenzene,PTAA,PolyTPD,Ag,368.89971574890393,0,50.0; 85.0-2.0; 30.0,0.9321936722126628
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,MACSN,Spin-coating,0.969054843760311,Chlorobenzene,PTAA,NPB,Ag,351.72548650202873,0,50.0; 80-3.0; 30.0,0.9321454323325101
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Butanediaminedihydroiodide,Spin-coating,0.7703678841523177,Chlorobenzene,PTAA,TAPC,AgAl,450.1734606024706,0,65; 100-1.0; 60.0,0.9321124117652417
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Ni,Spin-coating,0.7644077951414808,Chlorobenzene,PTAA,TAPC,AgAl,60.31646598734383,0,35; 85-20.0; 10.0,0.9320584227116441
+nip,SLG | FTO,TiO2-c,Li-TFSI; TiCl4,Spin-coating,PbI2,HMTA,Spin-coating,0.9720547936723402,Chlorobenzene,PTAA,O2,AgAl,139.53868535640186,0,100.0-0.0,0.9319826532533688
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,Stoichiometric,PbC2N2S2,Spin-coating,0.8681844240859384,Chlorobenzene,PTAA,TAPC,AgAl,91.1566929787172,0,60; 100-1.0; 7.0,0.9318914813448286
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,PbAc2,ITIC; PCBM-60,Spin-coating,0.7893922355990673,Chlorobenzene,PTAA,TAPC,AgAl,186.72376640717422,0,60; 100-3.0; 20.0,0.9317696746597144
+nip,SLG | FTO,TiO2-c,Samarium,Spin-coating,PbI2,EtOH,Spin-coating,0.8450224039255432,Diethyl ether,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Au,479.6696891426695,0,100.0-30.0,0.9315442718251369
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,NH4I,Spin-coating,0.8050101076953003,Chlorobenzene,PTAA,TAPC,AgAl,133.69051879374064,0,50.0; 80-3.0; 30.0,0.9313245182138329
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,MA,Spin-coating,0.9029433559393839,Diethyl ether,PTAA,F8BT,AgAl,438.4474780713298,0,120.0-5.0,0.9312673035917861
+nip,SLG | FTO,TiO2-c,rGraphene oxide,Spin-coating,PbI2; PbBr2,PbAc2,Spin-coating,0.41374941266933934,Diethyl ether,Spiro-MeOTAD,Li-TFSI; TPB,MoO3 | Al,103.83794629235622,0,100.0-70.0,0.9312666650173479
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbCl2,PMA,Spin-coating,0.7090091520053752,Diethyl ether,PTAA,F8BT,Al,83.87125049764312,0,60.0-150.0,0.931238726150052
+nip,SLG | FTO,TiO2-c,Undoped,Dipp-coating,PbI2,CNDs@K,Spin-coating,0.9251096707782376,Diethyl ether,PTAA,O2,AgAl,525.3598751474321,0,0.0; 90.0-10.0; 50.0,0.9312184780749454
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,PbI2,CsPbBr3-np,Spin-coating,0.8769145396977011,Chlorobenzene,PTAA,PolyTPD,AgAl,263.5828064425517,0,65.0; 100-1.0; 10.0,0.9312135443163505
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,NH4Cl,Diiodooctane,Spin-coating >> CBD,0.8142380852390907,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,261.4671290006651,0,60; 100-1.0; 4.0,0.9310282160087866
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,NH4Cl,Mn,Spin-coating,0.745975573853147,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Ag,392.49728870836543,0,60; 100-2.0; 5.0,0.9310156240830487
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Diiodooctane,Spin-coating,0.9521443789459554,Chlorobenzene,PTAA,F4-TCNQ,AgAl,85.01934987983671,0,60; 100-1.0; 4.0,0.9310128902241751
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,PbI2; PbBr2,Diiodooctane,Spin-coating >> CBD,0.764419583534307,Chlorobenzene,PTAA,PolyTPD,AgAl,80.08393931659852,0,65; 100-1.0; 5.0,0.9309680025612823
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,ITIC,Spin-coating,0.7368777771200917,Chlorobenzene,PTAA,PolyTPD,AgAl,428.98450138621854,0,60.0; 80.0-1.0; 2.0,0.9308185943064766
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2,Phenylethylammonium iodide,Spin-coating >> CBD,0.4926545099098336,Diethyl ether,PTAA,Li-TFSI; TBP,Ag,81.75434462355112,0,105.0-30.0,0.9306974255731169
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating | Spin-coating,PbI2; PbBr2,Polyurethane,Spin-coating,0.9417098243331297,Chlorobenzene,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Al,464.71748609106663,0,100.0-3.0,0.9306852746080023
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,DCL97,Spin-coating,0.9343359148485675,Chlorobenzene,PTAA,NPB,Ca | Al,400.10268078701904,0,60; 100-1.0; 60.0,0.9304412342479876
+nip,SLG | FTO,SnO2-np,Undoped,Spin-coating,Pb,PVA,Spin-coating,0.8534740886715079,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Ag,299.0521149277238,0,60; 100-1.0; 10.0,0.9303870869167202
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating,PbI2,DA2PbI4,Drop-infiltration,0.463801432700218,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,96.2940345698643,0,100; 100-0.5; 30.0,0.9302188697074858
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,none,ITIC; PCBM-60,Spin-coating,0.9509857781527941,Chlorobenzene,PTAA,TAPC,AgAl,342.4055833906354,0,45.0-0.5,0.9300428368482787
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Mn,Spin-coating,0.7537449727368816,Chlorobenzene,PTAA,NPB,AgAl,167.61630374279702,0,50; 100-1.0; 10.0,0.9295847592823878
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Pb,FACl,Spin-coating,0.8131312104402637,Chlorobenzene,PTAA,F4-TCNQ,AgAl,86.11333684332314,0,55.0-15.0,0.9294840733748759
+nip,SLG | FTO,TiO2-c,Ionic liquid,Spin-coating,PbAc2,EtOH; MA,Spin-coating,0.7815033655244832,Chlorobenzene,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,411.8126079830794,0,100.0-120.0,0.9291486855541274
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,Ni,Spin-coating,0.972942565852118,Chlorobenzene,PTAA,TAPC,AgAl,361.5225005910192,0,40; 100-40.0; 10.0,0.9289808036677523
+nip,SLG | FTO,TiO2-c,Ionic liquid,Spin-coating,PbI2,PbS-QDs,Spin-coating,0.8540881373092739,Chlorobenzene,PTAA,Li-TFSI; TBP,Au,135.84770784873126,0,100.0-15.0,0.928831824361348
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,DA2PbI4,Drop-infiltration,0.7632519336681063,Chlorobenzene,PTAA,PolyTPD,Al,119.83719954096097,0,65-2.0,0.9287096452600841
+nip,SLG | FTO,TiO2-c,Sn,Spin-coating,PbI2,Rhodanina,Spin-coating,0.9396919573001008,Chlorobenzene,Spiro-MeOTAD,Li-TFSI,MoO3 | Al,445.5645189497888,0,100.0-2.0,0.9286877606976348
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,PbI2,Zr(AC)4,Spin-coating,0.7926290275593739,Chlorobenzene,PTAA,Li-TFSI,AgAl,292.55814505617104,0,100.0-33.0,0.9286705777979664
+nip,SLG | FTO,TiO2-c,Undoped,Dipp-coating,PbI2,2Ph-ox,Spin-coating,0.9821690556565491,Chlorobenzene,PTAA,LAD,AgAl,125.11723245952024,0,100.0-150.0,0.9286064208611841
+pin,SLG | FTO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Pb,DA2PbI4,Drop-infiltration,0.8214610284213846,Chlorobenzene,PTAA,PolyTPD,AgAl,146.05930080665328,0,60.0-120.0,0.9285948453902835
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,FU11,Spin-coating,0.9219723477590447,Chlorobenzene,PTAA,TAPC,AgAl,317.909803714218,0,160.0-10.0,0.9285773936824201
+nip,SLG | FTO,TiO2-c,Li-TFSI; TiCl4,Spin-coating,PbI2,TMS,Spin-coating,0.9872062913179465,Diethyl ether,PTAA,TPFB,AgAl,515.5672445653015,0,100.0-150.0,0.928401776310948
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,NH4SCN,Spin-coating,0.8507013468550093,Chlorobenzene,PTAA,PolyTPD,AgAl,256.37824110675064,0,100.0-50.0,0.9283954068345716
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,Pb,KSCN,Spin-coating,0.8116273379778111,Chlorobenzene,P3HT,Li-TFSI; TBP,AgAl,290.2423850639681,0,60; 100-1.0; 7.0,0.9283327464236858
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,none,Carbon-nt,Spin-coating,0.963435067393795,Chlorobenzene,PTAA,NPB,AgAl,284.58482416042585,0,65.0-270.0,0.9282588696027892
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Terephthalic acid,Spin-coating >> Spin-coating,0.9506499512661037,Diethyl ether,PTAA,NPB,AgAl,239.83696033282382,0,65; 100-1.0; 60.0,0.9281449491960643
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,ITIC; PCBM-60,Spin-coating,0.8386672297191498,Chlorobenzene,PTAA,NPB,AgAl,407.817562847033,0,65.0; 100.0-2.0; 3.0,0.9281175870691261
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Thiourea,Spin-coating,0.9521909210928492,Toluene,PTAA,NPB,AgAl,244.63945890960076,0,65; 100-1.0; 9.0,0.9280495580759283
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,Pb,DMI,Spin-coating,0.736597468438064,Diethyl ether,P3HT,Li-TFSI,AgAl,309.2399597463933,0,100.0-55.0,0.9279214510802465
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,E2CA,Spin-coating,0.7270177984418875,Chlorobenzene,PTAA,TAPC,AgAl,198.679161412838,0,25; 60-20.0; 40.0,0.9279167694382555
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,DA2PbI4,Spin-coating,0.9898587323396297,Chlorobenzene,PTAA,TAPC,Ca | Al,385.9685672926438,0,50.0; 85.0-2.0; 30.0,0.9276157353326033
+nip,SLG | FTO,SnO2-c,AlCl3,Spin-coating,PbI2,AgI,Spin-coating >> CBD,0.8320328049447321,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,334.0500471783428,0,100.0-33.0,0.927559569615888
+nip,SLG | FTO,TiO2-c,Ethanolamine,Spin-coating,PbI2,N-Carbon-QDs,Spin-coating,0.8559138424487406,Diethyl ether,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,Al,193.1907516071435,0,100.0-15.0,0.927497446500489
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2; PbBr2,Benzoquinone,Spin-coating >> CBD,0.8813494741226043,Chlorobenzene,PTAA,PolyTPD,AgAl,437.6046143772237,0,60; 100-1.0; 60.0,0.9274131114467444
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,DCL97,Spin-coating,0.7386768518838465,Chlorobenzene,PTAA,F4-TCNQ,AgAl,100.67927883105746,0,60; 105-45.0; 70.0,0.9272746949693207
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,MA,CdCl2,Spin-coating,0.7878291337549581,Diethyl ether,PTAA,LAD,AgAl,361.44486042517696,0,70.0; 100.0-10.0; 90.0,0.9271044486917732
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,Cl; DPE,Spin-coating >> CBD,0.8264989618052406,Chlorobenzene,PTAA,PolyTPD,Al,135.92695804265128,0,60; 80-1.0; 2.0,0.9269846435722193
+nip,SLG | FTO,TiO2-c,Li-TFSI; TiCl4,Spin-coating,PbI2,HMTA,Spin-coating,0.9674561637430034,Chlorobenzene,PTAA,Li-TFSI,AgAl,158.43763125084564,0,100.0-1.0,0.9268660070820619
+nip,SLG | FTO,TiO2-c,Nb,CBD,PbAc2,Imidazole,Spin-coating,0.7552264046342329,Diethyl ether,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,409.3920150030135,0,100.0-144.0,0.9266592904367889
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,Mn,Spin-coating,0.8891494972978359,Chlorobenzene,PTAA,TAPC,Cu,206.9193434349831,0,60.0-5.0,0.926478211497572
+nip,SLG | FTO,TiO2-c,Undoped,Spin-coating | Spin-coating,PbI2,HMTA,Spin-coating,0.9842634354905274,Chlorobenzene,PTAA,F4-TCNQ,AgAl,128.27910886128208,0,100.0-3.0,0.9263052386854648
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Cl; DPE,Spin-coating >> CBD,0.9632913504365742,Chlorobenzene,PTAA,NPB,Ca | Al,408.46341267296435,0,60; 100-15.0; 30.0,0.9261998173432018
+nip,SLG | FTO,TiO2-c, TiCl4,Spin-coating,PbCl2,H2O,Spin-coating,0.7578334082135146,Diethyl ether,Spiro-MeOTAD,Li-TFSI; TPB,Au,300.1026065614869,0,100.0-35.0,0.9261221617134598
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,ITIC; PCBM-60,Spin-coating,0.8290576533602158,Chlorobenzene,PTAA,NPB,AgAl,306.349574361856,0,25; 90-30.0; 150.0,0.9260710208074049
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,Stoichiometric,Mn,Spin-coating,0.7497419516648615,Chlorobenzene,PTAA,NPB,AgAl,98.15566971337226,1,65.0; 100.0-1.0; 2.0,0.9260636663128693
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Pb,HATNA,Spin-coating,0.592193854739861,Diethyl ether,PTAA,NPB,AgAl,86.72715420253711,0,60; 120-2.0; 15.0,0.925816789761607
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Cs,Spin-coating,0.9063576117983109,Diethyl ether,PTAA,F4-TCNQ,AgAl,224.43777750453702,0,180.0-10.0,0.9256185765132869
+nip,SLG | FTO,TiO2-c,Ionic liquid,Spin-coating,PbI2,EtOH,Spin-coating,0.8661763312760581,Diethyl ether,Spiro-MeOTAD,Li-TFSI; O2; TBP,MoO3 | Au,333.5571957769433,0,100.0-600.0,0.9253004865356591
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,ITIC,Spin-coating,0.834879355555465,Chlorobenzene,PTAA,F8BT,AgAl,103.03862815563119,0,50.0-30.0,0.9252883103984566
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2; PbBr2,beta-cyclodextrin,Spin-coating,0.7813741499553679,Chlorobenzene,PTAA,NPB,AgAl,118.25827614906105,0,60; 120-5.0; 10.0,0.9251174921676331
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Ni,Spin-coating,0.8049676460124341,Chlorobenzene,PTAA,NPB,AgAl,440.2114616657279,0,60; 105-45.0; 70.0,0.9251012255624111
+nip,SLG | FTO,TiO2-c,Undoped,E-beam evaporation,PbI2,Caffeine,Spin-coating,0.9743263457184748,Diethyl ether,PTAA,F4-TCNQ,AgAl,532.3609619519217,0,100.0-25.0,0.9250715383513711
+nip,SLG | FTO,TiO2-c,Cs,Spin-coating,PbI2,TMS,Spin-coating,0.9740781285941821,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,156.4500765065286,0,100.0-0.0,0.9250383631054556
+nip,SLG | FTO,TiO2-c,Samarium,Spin-coating,PbCl2,TFBA,Spin-coating,0.9543045582564541,Diethyl ether,Spiro-MeOTAD,Pyridine,MoO3 | Au,435.3197001555546,0,100.0-6.0,0.9248774025839043
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Rb,Drop-infiltration >> CBD,0.7166639894853102,Chlorobenzene,PTAA,NPB,Al,514.7154143117708,0,60; 100-15.0; 30.0,0.9248715587149875
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Rb,Drop-infiltration,0.8786406653354375,Chlorobenzene,PTAA,NPB,Al,86.63898885763902,0,60.0-10.0,0.9248682765396439
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2; PbBr2,PbC2N2S2,Spin-coating,0.7978671859556394,Chlorobenzene,PTAA,NPB,AgAl,451.4930701678457,0,50.0-20.0,0.9247196879641342
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,PMA,Spin-coating,0.8372509003439872,Diethyl ether,PTAA,F4-TCNQ,AgAl,519.3829913012268,0,60; 100-2.0; 5.0,0.9246807477228857
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation | Evaporation,Stoichiometric,PbS-QDs,Spin-coating,0.8803593000473746,Chlorobenzene,PTAA,NPB,AgAl,244.93519589621852,0,20; 90-30.0; 180.0,0.9245998638401736
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2,HATNA,Spin-coating,0.6893261137992146,Diethyl ether,PTAA,PolyTPD,AgAl,75.64178207454421,0,60; 85-1.0; 25.0,0.9245835154359451
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,H2O,Spin-coating,0.9330554558894334,Chlorobenzene,PTAA,NPB,Al,401.94884125559975,0,25; 100.0-10.0; 5.0,0.9244310799637248
+nip,SLG | FTO,SnO2-c,AlCl3,Spin-coating,Pb,E2CA,Spin-coating,0.7753733107175029,Chlorobenzene,PTAA,TPFB,Ag,286.52586730978715,0,100.0-120.0,0.9244301146592722
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,EAPP,Spin-coating,0.9314919984903514,Chlorobenzene,PTAA,Li-TFSI,AgAl,533.6423219584966,0,100.0-10.0,0.9243228881089465
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbCl2,MACSN,Spin-coating,0.7064133764681642,Chlorobenzene,PTAA,PolyTPD,Al,488.74980475255643,0,60.0; 85.0-2.0; 25.0,0.9242678489029481
+pin,SLG | ITO,SnO2-np,Undoped,Spin-coating,Stoichiometric,HATNA,Spin-coating,0.7609095663416452,Diethyl ether,PTAA,TAPC,AgAl,153.70225833855952,0,25.0-5.0,0.9242440448074086
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,DA2PbI4,Drop-infiltration,0.8718499368384723,Chlorobenzene,PTAA,TAPC,Ca | Al,444.80823346460784,0,60; 100-2.0; 10.0,0.9242090780299214
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,NMA,Spin-coating,0.9630745568765909,Diethyl ether,PTAA,TAPC,Ca | Al,383.9976257484978,0,90.0-30.0,0.924208475511811
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,MACSN,Spin-coating,0.9254525791050133,Chlorobenzene,PTAA,TAPC,Ca | Al,431.01049355057154,0,60.0-30.0,0.9241294493726959
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,NH4SCN,Spin-coating,0.8135098745747055,Chlorobenzene,PTAA,TAPC,Ca | Al,120.56813614443888,0,210.0-10.0,0.9241162756265769
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,HATNA,Spin-coating,0.7112789212261194,Diethyl ether,PTAA,F4-TCNQ,Ag,82.66642560777562,0,65.0; 100-1.0; 2.0,0.9240765007048585
+nip,SLG | FTO,TiO2-c,Mo,Spin-coating,PbI2,EtOH; MA,Spin-coating,0.8653572086985494,Chlorobenzene,Spiro-MeOTAD,Li-TFSI,MoO3 | Au,509.5993629264249,0,100.0-105.0,0.9239631906946748
+nip,SLG | FTO,TiO2-c,Mo,Spin-coating,PbI2,EtOH; MA,Spin-coating,0.8696779116461453,Chlorobenzene,Spiro-MeOTAD,Li-TFSI,MoO3 | Au,470.5339130216751,0,100.0-144.0,0.9239449365291855
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,MA,Spin-coating,0.7656452593278797,Diethyl ether,P3CT-N,Undoped,Al,93.58129128746482,0,65; 100-1.0; 60.0,0.9238591023167598
+nip,SLG | FTO,TiO2-c,TiCl4,Spin-coating,PbI2,GuaI,Spin-coating,0.9770211354794122,Chlorobenzene,PTAA,LAD,AgAl,140.13544839865645,0,0.0; 90.0-10.0; 50.0,0.9237574931006006
+nip,SLG | FTO,TiO2-c,Undoped,Dipp-coating,PbI2,Urea,Spin-coating,0.9450020783261931,Toluene,PTAA,Li-TFSI,AgAl,517.62776325081,0,100.0-2.0,0.9237022545854419
+nip,SLG | FTO,TiO2-c,Zr,Spin-coating,PbCl2,Polyimide,Spin-coating,0.7530575334131644,Toluene,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,Au,279.37066435473594,0,100.0-150.0,0.9236722527599986
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,Ca,Spin-coating,0.8622939475851127,Chlorobenzene,PTAA,TAPC,AgAl,291.43200964217164,0,50; 100-5.0; 10.0,0.9234180715133533
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Cl; DPE,Spin-coating >> CBD,0.8599171164479459,Chlorobenzene,PTAA,F4-TCNQ,AgAl,56.55190454261294,0,60.0-120.0,0.9233707991460244
+pin,SLG | ITO,PCBM-60 | BCP,MAI ,Spin-coating | Spin-coating,Pb,DA2PbI4,Spin-coating,0.7587573542145083,Chlorobenzene,PTAA,TAPC,AgAl,373.94623659176244,0,40; 100-3.0; 10.0,0.9233523136749572
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Isatin-Cl,Spin-coating,0.7560014411346827,Chlorobenzene,PTAA,TAPC,AgAl,52.213817762685366,0,60.0; 80.0-1.0; 2.0,0.9233492842072878
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbI2,PMA,Spin-coating,0.6000382707011476,Diethyl ether,PTAA,PolyTPD,AgAl,72.27008454673586,0,60-30.0,0.9233358222273312
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,MACSN,Spin-coating,0.9313023446355876,Chlorobenzene,PTAA,NPB,Ca | Al,216.587756800846,0,60; 105-45.0; 70.0,0.9232800200648551
+pin,SLG | ITO,PCBM-60 | BCP,,Spin-coating | Spin-coating,none,ITIC,Spin-coating,0.7292294945977424,Chlorobenzene,PTAA,PolyTPD,AgAl,344.3604055973791,0,65.0; 100.0-2.0; 4.0,0.9232567396691412
+nip,SLG | FTO,SnO2-np,Guanidinium chloride,Spin-coating,PbI2,E2CA,Spin-coating,0.7452079677807397,Chlorobenzene,PTAA,TPFB,Al,389.9926642278431,0,100.0-25.0,0.9232117413046719
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Cs,Spin-coating,0.2800058029977892,Diethyl ether,PTAA,NPB,Au,82.43890923331303,0,40.0-40.0,0.9232067179391259
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,none,NH4SCN,Spin-coating,0.9001746255122762,Chlorobenzene,PTAA,TAPC,Ca | Al,270.86880949606956,0,60; 85-2.0; 25.0,0.9230110429651627
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,ITIC,Spin-coating,0.971896016969792,Chlorobenzene,PTAA,F4-TCNQ,AgAl,351.85951168077617,0,25.0; 90.0-30.0; 180.0,0.9230009364296253
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,AgI,Spin-coating >> CBD,0.8272782895438926,Chlorobenzene,PTAA,TAPC,AgAl,120.30201467761957,0,220.0-10.0,0.9229673729113603
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbCl2,PVP,Spin-coating,0.9289511939034908,Diethyl ether,PTAA,TPFB,AgAl,183.95787065106515,0,100.0-4.0,0.9229497810454591
+pin,SLG | ITO,PCBM-60 | BCP,,Spin-coating | Spin-coating,PbAc2,ITIC,Spin-coating,0.8362677988485302,Chlorobenzene,PTAA,TAPC,AgAl,144.9536306162342,0,60; 100-1.0; 60.0,0.9228641131765212
+nip,SLG | FTO,SnO2-c,Undoped,CBD,Pb,Graphene oxide,Spin-coating,0.4907719032377801,Chlorobenzene,PTAA,O2,AgAl,263.5869806020712,0,65.0-10.0,0.9228211695446873
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,none,Cl; DPE,Spin-coating >> CBD,0.7457335802915547,Chlorobenzene,PTAA,F4-TCNQ,Al,82.25841539610863,0,60; 100-1.0; 4.0,0.9227420267261295
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbAc2,Cl; DPE,Spin-coating >> CBD,0.7726628962483563,Chlorobenzene,PTAA,NPB,AgAl,354.85827403660375,0,50; 100-10.0; 60.0,0.9226221897686726
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2; PbBr2,Phenylethylammonium iodide,Spin-coating >> CBD,0.7310831000063032,Diethyl ether,PTAA,F8BT,Ag,72.08448529518991,0,60; 100-15.0; 30.0,0.9225895366832176
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.8466508955422247,Chlorobenzene,PTAA,TAPC,AgAl,155.05302297130444,0,115.0-30.0,0.9225346333711683
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,PbI2,CdCl2,Spin-coating,0.726687493675234,Diethyl ether,P3HT,Li-TFSI,AgAl,320.4568564312357,0,100.0-4.0,0.9225275143741883
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Rb,Drop-infiltration >> CBD,0.8138688885732646,Chlorobenzene,PTAA,PolyTPD,AgAl,240.48183648339824,0,60; 85-2.0; 25.0,0.9223379212220897
+nip,SLG | FTO,SnO2-c,Graphene-QDs,Spin-coating,MAI,DA2PbI4,Spin-coating,0.7809324761675637,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,160.44754227007587,0,70.0; 100.0-1.0; 2.0,0.9223013909621538
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,C4F8I2,Spin-coating,0.9800505043889182,Toluene,PTAA,Li-TFSI,AgAl,141.9216082631247,0,0.0; 90.0-10.0; 50.0,0.9222619406323539
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,Stoichiometric,NH4SCN,Spin-coating,0.8734636491667142,Chlorobenzene,PTAA,NPB,AgAl,124.18515905689858,0,55.0-15.0,0.9220712457600281
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Cl; DPE,Spin-coating >> CBD,0.8121537281882166,Chlorobenzene,PTAA,F8BT,Ag,82.00362791831434,0,60.0; 85.0-2.0; 25.0,0.921944442791001
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Cs,Spin-coating,0.7235362191055869,Diethyl ether,PTAA,F4-TCNQ,Al,141.60508581640377,0,60.0-120.0,0.9218991998713439
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,MA,Spin-coating,0.6671424359460066,Diethyl ether,PTAA,NPB,Al,91.63135400855505,0,60; 100-10.0; 15.0,0.9218574627136052
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Mn,Spin-coating,0.9993630660938079,Chlorobenzene,PTAA,PolyTPD,AgAl,411.04693127730366,0,60; 80-2.0; 5.0,0.921819559321568
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,NH4Cl,Benzoquinone,Spin-coating >> CBD,0.7628935377865093,Chlorobenzene,PTAA,O2,Ag,302.1837870067162,0,100.0-144.0,0.9216971574221607
+pin,SLG | ITO,PCBM-60 | BCP,MAI ,Spin-coating | Spin-coating,none,Carbon-nt,Spin-coating,0.8080309127511986,Chlorobenzene,PTAA,TAPC,Al,149.56751045110607,0,60; 80-2.0; 5.0,0.921238781313952
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,AgI,Spin-coating >> CBD,0.8090947274092942,Chlorobenzene,PTAA,Li-TFSI,Ag,317.80377149622126,0,100.0-144.0,0.9211082814853523
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,NH4Cl,NMA,Spin-coating,0.707935010829441,Diethyl ether,PTAA,O2,Ag,379.8490894856178,0,0.0; 90.0-10.0; 50.0,0.9210373644970364
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,PbI2; PbBr2,NH4SCN,Spin-coating,0.938709217186304,Chlorobenzene,PTAA,NPB,Cu,359.40000269652506,0,60; 100-3.0; 20.0,0.9209816283244633
+nip,SLG | FTO,TiO2-c,Phosphotungstic acid; WCl6,Spin-coating,PbI2,KI,Spin-coating,0.93051242698852,Diethyl ether,Spiro-MeOTAD,Spiro-(TFSI)2,MoO3 | Au,499.7651848465641,0,100.0-3.0,0.9209498967068785
+nip,SLG | FTO,TiO2-c,Cs,Spin-coating,PbI2,CNDs@K,Spin-coating,0.9774780988892966,Diethyl ether,PTAA,TPFB,AgAl,120.7879293712826,0,100.0-110.0,0.9208894594647982
+nip,SLG | FTO,TiO2-c,Samarium,Spin-coating,PbI2; PbBr2,Graphene-QDs,Spin-coating,0.9738710095085457,Chlorobenzene,Spiro-MeOTAD,Li-TFSI,MoO3 | Al,462.14918004159097,0,100.0-95.0,0.9208532627263114
+nip,SLG | FTO,SnO2-c,Undoped,ALD,NH4Cl,Methimazole,Spin-coating,0.8848588003811186,Diethyl ether,PTAA,Li-TFSI,AgAl,145.98043477047636,0,65.0; 100.0-1.0; 5.0,0.9208468305653564
+nip,SLG | FTO,TiO2-c,Al,Spin-coating,PbI2,Hexamethylphosphoramide,Spin-coating,0.9463538894049499,Chlorobenzene,PTAA,Li-TFSI,AgAl,157.96182917228833,0,100.0-10.0,0.9207525741199701
+nip,SLG | FTO,SnO2-np,Potassium O-hexyl xanthate,Spin-coating,PbCl2,MOF,Doctor blading,0.7989519652043383,Toluene,PTAA,TPFB,AgAl,356.0043185029828,0,100.0-15.0,0.9206231717144766
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Mn,Spin-coating,0.782014964686111,Chlorobenzene,PTAA,F8BT,AgAl,82.3677643718977,0,25; 95-5.0; 60.0,0.9205909117844191
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2,ITIC,Spin-coating,0.8430223825084707,Chlorobenzene,PTAA,NPB,AgAl,414.4811889070242,0,50.0-45.0,0.9205430358249291
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2,PAA,Spin-coating,0.6988268653749068,Diethyl ether,PTAA,Li-TFSI,AgAl,350.943393944825,0,100.0-15.0,0.9204968491992574
+nip,SLG | FTO,TiO2-c,Tantalum(V) ethoxide,Spin-coating,PbAc2,Imidazole,Spin-coating,0.8774510430128941,Diethyl ether,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Au,461.8357048297917,0,100.0-45.0,0.9204707978244799
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating | Spin-coating,PbI2,HMTA,Spin-coating,0.8877504235232333,Chlorobenzene,Spiro-MeOTAD,FK211,AgAl,103.84110136913118,0,100; 120-90.0; 10.0,0.9204074257768649
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Mn,Spin-coating,0.7392499434220948,Chlorobenzene,PTAA,F4-TCNQ,AgAl,92.35991434397243,0,60; 85-2.0; 25.0,0.9202976105785491
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,MACl,Rb,Drop-infiltration,0.7399794043895693,Chlorobenzene,PTAA,TAPC,AgAl,78.18925732933853,0,65.0; 100-3.0; 10.0,0.9202932004239169
+nip,SLG | FTO,SnO2-c,Graphene-QDs,Spin-coating,NH4Cl,AgI,Spin-coating >> CBD,0.7692709274859556,Chlorobenzene,PTAA,O2,Ag,322.2634113982355,0,100.0-150.0,0.9202097648073321
+nip,SLG | FTO,TiO2-c,Ethanolamine,Spin-coating,PbAc2,SWCNTs,Spin-coating,0.8543130492292292,Diethyl ether,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,MoO3 | Au,396.699792999222,0,100.0-180.0,0.9201805901124098
+nip,SLG | FTO,TiO2-c | Al2O3-mp,Undoped,Spin-coating | Spin-coating,NH4Cl,CsPbBr3-np,Spin-coating,0.8026339993293163,Chlorobenzene,PTAA,F4-TCNQ,Ag,385.9105932275452,0,100.0-144.0,0.9201711188676899
+nip,SLG | FTO,TiO2-c,Samarium,Spin-coating,PbAc2,H2O,Spin-coating,0.8282504107500652,Diethyl ether,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Au,415.74144312399244,0,100.0-10.0,0.9200329083428547
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,NH4I,Spin-coating,0.932100602960549,Chlorobenzene,PTAA,PolyTPD,MoO3 | Ag,369.4665344963212,0,60-60.0,0.9196849868782012
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2,CsPbBr3-np,Spin-coating,0.9663867521068482,Chlorobenzene,PTAA,F4-TCNQ,AgAl,364.2623538500436,0,60; 100-30.0; 90.0,0.9196742836992722
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Spin-coating,Pb,PVA,Spin-coating,0.8236681368153246,Chlorobenzene,PTAA,TPFB,AgAl,305.2126307734068,0,60.0-30.0,0.9196342463740357
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,Zn,Spin-coating,0.7915125653744106,Chlorobenzene,PTAA,LAD,Ag,396.1360463182069,0,100.0-55.0,0.9195986390151707
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Benzoquinone,Spin-coating >> CBD,0.819135898729711,Chlorobenzene,PTAA,TAPC,AgAl,128.72664920836957,0,60.0; 100-2.0; 5.0,0.9195586919194192
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,ITIC,Spin-coating,0.8392628314662284,Chlorobenzene,PTAA,TAPC,AgAl,256.42015829005635,0,110-60.0,0.9195266576065668
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Agarose,Spin-coating,0.8208060839669475,Ethyl acetate,PTAA,TAPC,Ag,235.48423941039533,0,60; 110-1.0; 10.0,0.9194992166099468
+nip,SLG | FTO,TiO2-c,Zr,Spin-coating,PbCl2,PEA,Spin-coating,0.8032985044459637,Chlorobenzene,Spiro-MeOTAD,Li-TFSI; TBP,MoO3 | Au,284.88816744796634,0,100.0-150.0,0.9193234191823306
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Rb,Drop-infiltration,0.8872179511814597,Chlorobenzene,PTAA,PolyTPD,Ag,286.083137527292,0,60.0; 100.0-5.0; 10.0,0.9193225246686152
+nip,SLG | FTO,TiO2-c,Y,Spin-coating,PbAc2,Rhodanina,Spin-coating,0.7377689273001998,Chlorobenzene,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,410.14794030364106,0,100.0-150.0,0.9190817615883617
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,MACSN,Spin-coating,0.8789199589630637,Chlorobenzene,PTAA,PolyTPD,Ag,374.5766760562949,0,50; 100-1.0; 10.0,0.9190760581090637
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Carbon-nt,Spin-coating,0.9584035848875244,Chlorobenzene,PTAA,F8BT,AgAl,113.21311933185383,0,105.0-5.0,0.9189773038484877
+nip,SLG | FTO,TiO2-c,rGraphene oxide,Spin-coating,PbI2,BAI,Spin-coating,0.9001763360093717,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,102.56748505997426,0,100.0-95.0,0.9188101196259111
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbI2; PbBr2,MACSN,Spin-coating,0.8455733471654323,Chlorobenzene,PTAA,NPB,Ag,123.99580020611532,0,135.0-5.0,0.9185826270357411
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,SA-1,Spin-coating,0.8082121776104465,Chlorobenzene,PTAA,F8BT,AgAl,90.82716367576526,0,60.0-20.0,0.9185410452574417
+nip,SLG | FTO,TiO2-c,Zr,Spin-coating,PbCl2,PCBM-nw,Spin-coating,0.7726881405869077,Chlorobenzene,Spiro-MeOTAD,Li-TFSI; TBP,MoO3 | Au,255.34716162810236,0,100.0-120.0,0.9183145584734608
+nip,SLG | ITO,TiO2-c,CF3NaO2S,Spin-coating,PbI2; PbBr2,TFBA,Spin-coating,0.78971615883925,Diethyl ether,Spiro-MeOTAD,Li-TFSI; TBP,MoO3 | Al,423.64355010732623,0,100.0-100.0,0.9183116999710538
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2; PbBr2,PbC2N2S2,Spin-coating,0.8506564289359764,Chlorobenzene,PTAA,TAPC,Ca | Al,362.5977646826396,0,210.0-10.0,0.9182335979648452
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,DA2PbI4,Spin-coating,0.9339992979486834,Chlorobenzene,PTAA,F8BT,Al,372.11882592247247,0,60; 80-1.0; 2.0,0.9181886239895405
+nip,SLG | FTO,TiO2-c,Undoped,Spin-coating | Spin-coating,PbI2,2Ph-ox,Spin-coating,0.9590850227214182,Chlorobenzene,PTAA,O2,AgAl,523.7653880286864,0,100.0-150.0,0.918128500936406
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,MAI,DCL97,Spin-coating,0.890171345521944,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,173.69358077245698,0,60.0; 80.0-1.0; 2.0,0.918082933250768
+nip,SLG | FTO,TiO2-c,NaCl,Spin-coating,PbI2,SA-1,Spin-coating,0.9291797639136683,Chlorobenzene,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Au,429.55013593686704,0,100.0-20.0,0.9180416038594987
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,NH4SCN,Spin-coating,0.7945620247902503,Chlorobenzene,PTAA,NPB,Ca | Al,173.88274807299612,0,60.0-2.0,0.917892973643158
+nip,SLG | FTO,TiO2-c,Samarium,Spin-coating,PbI2; PbBr2,EtOH; MA,Spin-coating,0.9798377523375358,Chlorobenzene,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,MoO3 | Al,461.23481057213445,0,100.0-90.0,0.9178666820033478
+nip,SLG | FTO,TiO2-c,Ethanolamine,Spin-coating,PbAc2,CuSCN,Spin-coating,0.8168952257090825,Chlorobenzene,Spiro-MeOTAD,Li@C60-TFSI; TBP,MoO3 | Au,228.57389756893292,0,100.0-2.0,0.9178201535090389
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Cl; DPE,Spin-coating >> CBD,0.9228921470996875,Chlorobenzene,PTAA,NPB,Ca | Al,390.9321148117403,0,60; 100-2.0; 5.0,0.9177435060993068
+nip,SLG | FTO,TiO2-c, TiCl4,Spin-coating,PbI2,Thiourea,Spin-coating,0.9811893035679046,Chlorobenzene,PTAA,Li-TFSI; TBP,Au,444.04070024930564,0,100.0-105.0,0.9176567906778298
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,GuaI,Spin-coating,0.9559351140929274,Chlorobenzene,PTAA,TPFB,AgAl,112.67050317630272,0,100.0-7.0,0.9174306747641466
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Methimazole,Spin-coating,0.8370687499129056,Diethyl ether,PTAA,F8BT,AgAl,400.64140262300623,0,80.0-120.0,0.9173656856704373
+pin,SLG | FTO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Pb,Diiodooctane,Spin-coating,0.7629766138448951,Chlorobenzene,PTAA,F8BT,AgAl,132.3751786058703,0,60; 100-1.0; 7.0,0.9173465016651106
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.7523626341103633,Chlorobenzene,PTAA,F4-TCNQ,AgAl,88.36568562955303,0,65.0; 100.0-1.0; 5.0,0.9172634833639389
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,PbI2,PVA,Spin-coating,0.7554983660929586,Chlorobenzene,P3HT,Li-TFSI,Al,356.69669315000885,0,100.0-5.0,0.9171806319576646
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Cl; DPE,Spin-coating >> CBD,0.9090418115236848,Chlorobenzene,PTAA,NPB,Ca | Al,400.6532328437406,0,60; 100-1.0; 2.0,0.9171339998293141
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,none,Cs,Spin-coating,0.7923477073958022,Diethyl ether,PTAA,TAPC,AgAl,2.2310964584540898,0,60; 105-45.0; 70.0,0.9170944883270314
+nip,SLG | FTO,TiO2-c,Galliumnitrate hydrate,Spin-coating,PbI2,H2O; Ti3C2Tx,Spin-coating,0.9455949699671514,Ethyl acetate,Spiro-MeOTAD,Li-TFSI,Al,371.21643074386714,0,100; 125-60.0; 15.0,0.9170666588048049
+nip,SLG | FTO,TiO2-c,CF3NaO2S,Spin-coating,PbI2,Butanediaminedihydroiodide,Spin-coating,0.9797534747086577,Chlorobenzene,PTAA,Li-TFSI,AgAl,135.7056189492887,0,60.0-2.0,0.9169865831103635
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2; PbBr2,Rb,Spin-coating,0.7573035009162719,Chlorobenzene,PTAA,F8BT,AgAl,101.82186270014711,0,60.0-90.0,0.9169425606517543
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,HATNA,Spin-coating,0.8426595136333566,Diethyl ether,Spiro-MeOTAD,Li-TFSI; TBP,Au,164.53931208654012,0,65.0-1.0,0.9168638222327241
+pin,SLG | ITO,PCBM-60,BaSnO3,Spin-coating,Stoichiometric,Rb,Spin-coating,0.777624654967091,Diethyl ether,PTAA,TAPC,AgAl,89.2319786327315,0,60; 80-2.0; 5.0,0.9168556357269354
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,DA2PbI4,Spin-coating,0.8479590446155508,Chlorobenzene,PTAA,TAPC,Ca | Al,454.0190610459483,0,60; 85-1.0; 25.0,0.9167740616543265
+nip,SLG | FTO,TiO2-c,NaCl,Spin-coating,Pb,N-Carbon-QDs,Spin-coating,0.7437809574766957,Diethyl ether,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,MoO3 | Au,379.6675453591407,0,100.0-240.0,0.9167276908431612
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbI2,ITIC,Spin-coating,0.7705800637475674,Chlorobenzene,PTAA,F8BT,AgAl,111.40752926791994,0,65.0-270.0,0.9167083802286801
+pin,SLG | FTO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,DA2PbI4,Spin-coating,0.8678194915385635,Chlorobenzene,PTAA,F8BT,AgAl,111.40615871086305,0,60.0-120.0,0.916634032345658
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2; PbBr2,Rb,Drop-infiltration >> CBD,0.7045530964968434,Chlorobenzene,PTAA,TAPC,Ag,67.35856055823277,0,60; 100-10.0; 15.0,0.9166118170184577
+nip,SLG | FTO,TiO2-c,Phosphotungstic acid; WCl6,Spin-coating,PbI2,N-Carbon-QDs,Spin-coating,0.9034568145738752,Diethyl ether,Spiro-MeOTAD,Li-TFSI,MoO3 | Au,468.926362504755,0,100.0-50.0,0.9163486494744761
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,HATNA,Spin-coating,0.4000554397929257,Diethyl ether,PTAA,TAPC,AgAl,77.0555785194035,0,60; 85-2.0; 25.0,0.9162979292096811
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Carbon-nt,Spin-coating,0.8761623797994537,Chlorobenzene,PTAA,TAPC,Ca | Al,356.4669153901225,0,65.0; 100-1.0; 10.0,0.9162831344001617
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,NH4SCN,Spin-coating,0.8881399913449943,Chlorobenzene,PTAA,F8BT,AgAl,129.1430923733138,0,60; 100-3.0; 20.0,0.9162315975162316
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2,Butanediaminedihydroiodide,Spin-coating,0.9171550082801289,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,Al,213.18921504408377,0,100.0-25.0,0.9162297892714408
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,none,Ni,Spin-coating,0.9403885632910245,Chlorobenzene,PTAA,PolyTPD,Ca | Al,198.82385872887463,0,60.0; 85.0-2.0; 25.0,0.9161640183873724
+nip,SLG | FTO,TiO2-c,Sn,Spin-coating,PbCl2,SA-2,Spin-coating,0.922308079340898,Chlorobenzene,Spiro-MeOTAD,I2; Li-TFSI; TBP,MoO3 | Au,466.8071139315346,0,100.0-23.0,0.9161180735218865
+nip,SLG | FTO,TiO2-c,Mo,Spin-coating,PbCl2,PEA,Spin-coating,0.7777783613126652,Diethyl ether,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,264.1858923759245,0,100.0-30.0,0.9160325522624839
+nip,SLG | FTO,TiO2-c,Cs,Spin-coating,PbI2,Butanediaminedihydroiodide,Spin-coating,0.9823369556198877,Chlorobenzene,PTAA,Li-TFSI,AgAl,145.91569592607843,0,100.0-20.0,0.9160134005134339
+nip,SLG | FTO,TiO2-c,rGraphene oxide,Spin-coating,PbI2,HMTA,Spin-coating,0.9372188566174746,Chlorobenzene,PTAA,F4-TCNQ,Ag,117.59695145660861,0,100.0-70.0,0.9159890697016252
+nip,SLG | FTO,TiO2-c,Sn,Spin-coating,Pb,Imidazole,Spin-coating,0.7489810567643976,Diethyl ether,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,405.13912214720165,0,100.0-1.0,0.9159871020749788
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbAc2,PMA,Spin-coating,0.7726429308037934,Diethyl ether,PTAA,F4-TCNQ,Al,155.6607359178012,0,60; 100-3.0; 20.0,0.9159473972780136
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,Stoichiometric,CsI,Spin-coating,0.9758115181291008,Diethyl ether,PTAA,F8BT,Ag,368.47151143787175,0,45.0-100.0,0.9158598833204804
+nip,SLG | FTO,SnO2-np,Potassium O-hexyl xanthate,Spin-coating,NH4Cl,ITIC; PCBM-60,Spin-coating,0.7088897616494595,Chlorobenzene,PTAA,TPFB,Ag,390.1511097587823,0,100.0-144.0,0.9156841230950148
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,NMA,Spin-coating,0.6853693503981894,Diethyl ether,PTAA,TAPC,AgAl,72.08308461763595,0,60; 100-2.0; 5.0,0.9156638415465826
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2; PbBr2,Diiodooctane,Spin-coating >> CBD,0.9119191902465973,Chlorobenzene,PTAA,TAPC,Ca | Al,216.259542686716,0,60; 80-1.0; 2.0,0.915615752100501
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2,TMS,Spin-coating,0.9377980775058569,Diethyl ether,PTAA,F4-TCNQ,AgAl,191.62522149271666,0,60; 80-1.0; 2.0,0.9156154924769635
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,GuaI,Spin-coating,0.9679976247073536,Chlorobenzene,PTAA,TPFB,AgAl,168.89150386848647,0,100.0-23.0,0.915431463893136
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,PbC2N2S2,Spin-coating,0.705252014381524,Chlorobenzene,PTAA,F4-TCNQ,Al,87.00401984695523,0,60.0; 100-2.0; 5.0,0.9154135684326292
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,MACSN,Spin-coating,0.8882794583050747,Chlorobenzene,PTAA,F4-TCNQ,Cu,369.9621078466745,0,60; 100-3.0; 10.0,0.9154115610100727
+nip,SLG | FTO,TiO2-c,NaCl,Spin-coating,PbI2,Rhodanina,Spin-coating,0.9410283139360865,Chlorobenzene,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,MoO3 | Al,449.59324516962727,0,100.0-4.0,0.9153160467376995
+nip,SLG | FTO,TiO2-c,Cs,Spin-coating,PbI2,NH4I,Spin-coating,0.26021744081615,Chlorobenzene,PTAA,O2,AgAl,81.10609929976057,0,100.0-50.0,0.9153060713815426
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,E2CA,Spin-coating,0.7528403037732125,Chlorobenzene,PTAA,F8BT,AgAl,111.3232289560923,0,60; 100-15.0; 30.0,0.9152615143085926
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Butylamineiodide,Spin-coating,0.3300945797886723,Chlorobenzene,PTAA,NPB,AgAl,92.07974297750995,0,65; 100-1.0; 10.0,0.9152026569123844
+nip,SLG | FTO,SnO2-c,Li,Spin-coating,NH4Cl,Cs,Spin-coating,0.5190965113497578,Diethyl ether,PTAA,Li-TFSI,AgAl,153.82963819128233,0,50; 100-5.0; 10.0,0.9150757427254289
+nip,SLG | FTO,TiO2-c,Samarium,Spin-coating,PbAc2,EtOH,Spin-coating,0.7645103451459992,Diethyl ether,Spiro-MeOTAD,FK211,MoO3 | Au,281.2368843130921,0,100.0-144.0,0.915019971267655
+nip,SLG | FTO,TiO2-c,TiCl4,Spin-coating,PbI2,2Ph-ox,Spin-coating,0.9536264617771221,Chlorobenzene,PTAA,O2,AgAl,178.7327833614096,0,100.0-100.0,0.9149599591748033
+pin,SLG | ITO,PCBM-60 | BCP,MAI ,Spin-coating | Spin-coating,Stoichiometric,DCL97,Spin-coating,0.7062114867648907,Chlorobenzene,PTAA,NPB,AgAl,94.62419332097197,0,65; 100-60.0; 30.0,0.914911087160248
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,NH4Cl,beta-cyclodextrin,Spin-coating,0.7502803173570961,Chlorobenzene,PTAA,Li-TFSI,AgAl,212.08498760978893,0,25.0-10.0,0.9148825963673076
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Cl; DPE,Spin-coating >> CBD,0.9192460153339452,Chlorobenzene,PTAA,NPB,AgAl,126.51151477311244,0,65; 100-60.0; 30.0,0.9148546479704083
+nip,SLG | FTO,TiO2-c,Undoped,Spin-coating,PbI2,Butylamineiodide,Spin-coating,0.9830607550807371,Chlorobenzene,PTAA,Li-TFSI,AgAl,151.3532791426034,0,100.0-105.0,0.9148298827723754
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,DA2PbI4,Spin-coating,0.7253483898711359,Chlorobenzene,PTAA,NPB,Ca | Al,336.1689852749528,0,65.0; 100.0-2.0; 3.0,0.9148096803745535
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Carbon-nt,Spin-coating,0.8943850489150633,Chlorobenzene,PTAA,F8BT,AgAl,378.3707303757703,0,60; 100-1.0; 60.0,0.9147604969350102
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,none,Rb,Drop-infiltration,0.9489548528029907,Chlorobenzene,PTAA,TAPC,Al,346.19029919653275,0,40.0-40.0,0.9146840196405766
+nip,SLG | FTO,SnO2-c,La,Spin-coating,Pb,Graphene oxide,Spin-coating,0.8153047018705539,Chlorobenzene,PTAA,F4-TCNQ,AgAl,310.6779205838758,0,65; 100-1.0; 2.0,0.9146156045085353
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,Pb,SnS-QDs,Spin-coating,0.8702573040412412,Chlorobenzene,PTAA,TPFB,AgAl,304.4299817733471,0,60.0; 85.0-2.0; 25.0,0.9143978445028473
+nip,SLG | FTO,TiO2-c,Cs,Spin-coating,PbI2,Butanediaminedihydroiodide,Spin-coating,0.9621552077969304,Chlorobenzene,PTAA,Li-TFSI,AgAl,149.89227868618576,0,100.0-120.0,0.9143972412691755
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Ni,Spin-coating,0.9983229690462431,Chlorobenzene,PTAA,TAPC,Au,410.709054847636,0,20; 90-30.0; 180.0,0.9143510783000263
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,FU11,Spin-coating,0.894792922014628,Chlorobenzene,PTAA,F8BT,Al,373.91280872363393,0,150.0-30.0,0.9143308784715932
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,CsPbBr3-np,Spin-coating,0.7145284913724606,Chlorobenzene,PTAA,F8BT,AgAl,95.00057731535554,0,170.0-240.0,0.9143207124203938
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2; PbBr2,NH4I,Spin-coating >> CBD,0.9132214361496913,Chlorobenzene,PTAA,PolyTPD,Ca | Al,366.2367095976709,0,60; 100-5.0; 10.0,0.9141717430515155
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,Pb,ABS,Spin-coating,0.7622117792392947,Chlorobenzene,PTAA,Li-TFSI,AgAl,284.51510368700605,0,65; 100-2.0; 2.0,0.9141375366704514
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Diiodooctane,Spin-coating,0.49011178155929713,Chlorobenzene,PTAA,NPB,AgAl,76.63219888253504,0,60; 100-1.0; 10.0,0.9140770522061058
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,NH4Cl,Diiodooctane,Spin-coating >> CBD,0.8686807094176371,Chlorobenzene,PTAA,NPB,AgAl,198.09731197180744,0,40; 100-2.0; 10.0,0.914006700136234
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2,Cl; DPE,Spin-coating >> CBD,0.8735105589202725,Chlorobenzene,PTAA,PolyTPD,AgAl,234.0385224881622,0,140.0-30.0,0.9138433977779498
+nip,SLG | FTO,TiO2-c,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Butylamineiodide,Spin-coating,0.9856796171676313,Chlorobenzene,PTAA,O2,AgAl,271.08104875777155,0,100.0-25.0,0.9137846842155688
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,AgI,Spin-coating >> CBD,0.7818183730791843,Chlorobenzene,PTAA,F8BT,AgAl,98.16127834097189,0,60; 100-1.0; 4.0,0.9137486449077761
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Graphene oxide,Spin-coating,0.9537162314408577,Diethyl ether,PTAA,F4-TCNQ,Ag,402.6452223094595,1,60; 100-30.0; 90.0,0.9137435261052349
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,Carbon-nt,Spin-coating,0.7553566032843426,Chlorobenzene,PTAA,F8BT,Al,92.4740006356087,0,60.0-90.0,0.9136268487451048
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,SrI2,Spin-coating,0.8617317389393959,Chlorobenzene,PTAA,NPB,Ag,106.20976788503714,0,50; 85-1.5; 25.0,0.9136157171932123
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,Pb,ITIC,Spin-coating,0.7373692770353648,Chlorobenzene,PTAA,Li-TFSI,Al,281.3194142518788,0,100.0-10.0,0.913597372398727
+nip,SLG | FTO,TiO2-c,Al,Spin-coating,PbAc2,FU11,Spin-coating,0.7759733554925085,Chlorobenzene,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,361.46313598228727,0,100.0-12.0,0.9133717788075187
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,DA2PbI4,Spin-coating,0.8206711307451329,Chlorobenzene,PTAA,F8BT,Al,108.02039077011432,0,40; 100-10.0; 10.0,0.9133071956603679
+nip,SLG | FTO,TiO2-c,Ethanolamine,Spin-coating,PbCl2,SA-1,Spin-coating,0.9815492690441417,Chlorobenzene,Spiro-MeOTAD,Li-TFSI; TBP; V2O5,MoO3 | Au,450.853584493921,0,100.0-2.0,0.9132430724165341
+nip,SLG | FTO,TiO2-c,rGraphene oxide,Spin-coating,PbI2,Phenylethyl ammonium iodide,Spin-coating,0.9660075836164251,Chlorobenzene,PTAA,O2,AgAl,135.12252119126455,0,0.0; 90.0-10.0; 50.0,0.9132376141430137
+nip,SLG | FTO,SnO2-c,MoCl5,Spin-coating,Pb,FACl,Spin-coating,0.5274786997857646,Chlorobenzene,PTAA,O2,AgAl,306.93501430233096,0,65; 100-1.0; 2.0,0.9132132130368348
+pin,SLG | FTO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,NH4Cl,Ni,Spin-coating,0.3310374240039414,Chlorobenzene,PTAA,NPB,AgAl,96.37299655881058,0,60.0-45.0,0.9132070783705825
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,E2CA,Spin-coating,0.8301192446521234,Chlorobenzene,PTAA,F8BT,AgAl,108.99601247396302,0,60; 100-1.0; 7.0,0.9131961813846455
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,ITIC,Spin-coating,0.7151389682204322,Chlorobenzene,PTAA,F8BT,AgAl,61.78782067127463,0,60; 85-2.0; 25.0,0.9130789446212014
+nip,SLG | FTO,SnO2-c,Undoped,ALD,PbI2,KSCN,Spin-coating,0.8072770945237612,Chlorobenzene,PTAA,O2,AgAl,336.65811254339326,0,100.0-150.0,0.913019179638962
+pin,SLG | FTO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Diiodooctane,Spin-coating,0.8271651530935468,Chlorobenzene,PTAA,F8BT,AgAl,316.6670411131558,0,60; 105-45.0; 70.0,0.9130166080658142
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,ITIC; PCBM-60,Spin-coating,0.8123668174468907,Chlorobenzene,PTAA,F4-TCNQ,Al,92.36275339603024,0,60; 105-45.0; 70.0,0.9129863431637024
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,Mn,Spin-coating,0.7643181636652885,Chlorobenzene,PTAA,F4-TCNQ,Ag,85.69113461045868,0,65.0; 100-1.0; 10.0,0.9129636019524667
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,Cs,Spin-coating,0.9633980698636291,Diethyl ether,PTAA,Undoped,Ca | Al,368.4036916556678,0,60; 100-5.0; 10.0,0.912922681657799
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,PbAc2,DA2PbI4,Drop-infiltration,0.7934621284364447,Chlorobenzene,PTAA,TAPC,AgAl,311.57767631749323,0,190.0-10.0,0.912823126334086
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,Carbon-nt,Spin-coating,0.8833722348515283,Chlorobenzene,PTAA,TAPC,Ca | Al,278.8640723184974,0,60; 80-1.0; 2.0,0.9126410144962035
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation | Evaporation,PbI2; PbBr2,SP-3D-COF 1,Spin-coating,0.8040793412843392,Chlorobenzene,PTAA,TAPC,AgAl,55.13334440072937,0,55.0-10.0,0.9126155025328212
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Carbon-nt,Spin-coating,0.8675010973933037,Chlorobenzene,PTAA,F8BT,AgAl,103.33061042511191,0,65; 100-10.0; 30.0,0.9125704429998578
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,NH4I,Spin-coating,0.9765387601575649,Chlorobenzene,PTAA,F8BT,AgAl,414.2428917580738,0,45.0-100.0,0.9125437797602106
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,beta-cyclodextrin,Spin-coating,0.7304965896654202,Chlorobenzene,PTAA,O2,Ag,408.7891466887023,0,100.0-120.0,0.9121432458001526
+nip,SLG | FTO,TiO2-c,Phosphotungstic acid; WCl6,Spin-coating,PbI2,Rhodanina,Spin-coating,0.9137053329740804,Chlorobenzene,Spiro-MeOTAD,Li-TFSI,MoO3 | Al,440.69040246427943,0,100.0-50.0,0.9121119762306135
+nip,SLG | FTO,TiO2-c,Samarium,Spin-coating,PbI2,SA-2,Spin-coating,0.9386471367095044,Chlorobenzene,PTAA,Li-TFSI; TBP,Au,160.31744247576768,0,100.0; 100-10.0; 15.0,0.9120197652740556
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Agarose,Spin-coating,0.9566879116670916,Ethyl acetate,PTAA,F8BT,Ca | Al,396.7172220454154,0,60.0-2.0,0.9120115301505628
+nip,SLG | FTO,SnO2-np,Guanidinium chloride,Spin-coating,Pb,FACl,Spin-coating,0.7913894236909722,Chlorobenzene,PTAA,O2,AgAl,330.82286826803994,0,70.0-15.0,0.9120106482162703
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,ITIC; PCBM-60,Spin-coating,0.8615165824330234,Chlorobenzene,PTAA,F8BT,AgAl,331.7669026155663,0,65.0; 100-1.0; 2.0,0.9119852744981035
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Rb,Drop-infiltration,0.7797023525777705,Chlorobenzene,PTAA,NPB,Al,57.50968017483937,0,60; 100-15.0; 30.0,0.9119405558878022
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,NH4SCN,Spin-coating,0.902438736555461,Chlorobenzene,PTAA,PolyTPD,Ag,222.85704342946187,0,150.0-5.0,0.911907402613127
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,DCL97,Spin-coating,0.855724041744334,Chlorobenzene,PTAA,F8BT,Al,347.45294988222156,0,100; 125-60.0; 15.0,0.9118464195453967
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,DA2PbI4,Drop-infiltration,0.854628804364211,Chlorobenzene,PTAA,TAPC,Ca | Al,459.1290326980815,0,65.0-3.0,0.911730448478033
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,TMS,Spin-coating,0.827142384238902,Diethyl ether,PTAA,F4-TCNQ,AgAl,52.23615679771955,0,65.0; 100-1.0; 10.0,0.9115873260834242
+nip,SLG | FTO,TiO2-c,Li-TFSI; TiCl4,Spin-coating,PbI2,Thiourea,Spin-coating,0.9839947315224022,Chlorobenzene,PTAA,O2,AgAl,137.0785382915648,0,100.0-0.0,0.9114477404519815
+nip,SLG | FTO,SnO2-np,Undoped,Spin-coating,Pb,Zr(AC)4,Spin-coating,0.729776672030229,Chlorobenzene,PTAA,Li-TFSI,AgAl,344.78036717689764,0,100.0-33.0,0.9113227373417029
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,CH2I2,Spin-coating >> CBD,0.8204303499313059,Chlorobenzene,PTAA,TAPC,AgAl,292.9752893186512,0,50; 100-3.0; 10.0,0.9111207781007992
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,Benzoquinone,Spin-coating >> CBD,0.8618710080721501,Chlorobenzene,PTAA,TAPC,AgAl,347.60257322690103,0,130.0-90.0,0.9110379707082066
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,DA2PbI4,Spin-coating,0.7265646508657108,Chlorobenzene,PTAA,NPB,Al,80.0202057965888,0,70.0-15.0,0.9110025819412614
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,CBD | Spin-coating,NH4Cl,DCL97,Spin-coating,0.1930050442637593,Chlorobenzene,PTAA,LAD,AgAl,185.71894543449423,0,50; 100-3.0; 10.0,0.9108929819963223
+nip,SLG | FTO,SnO2-c,Li,Spin-coating,PbCl2,Graphene oxide,Spin-coating,0.738999928004626,Diethyl ether,P3HT,Li-TFSI; TBP,Al,323.2190911497027,0,100.0-240.0,0.9108675891738545
+nip,SLG | FTO,TiO2-c,Undoped,Dipp-coating,PbI2,PU,Spin-coating,0.5803538844754653,Diethyl ether,PTAA,LAD,AgAl,152.4025037383828,0,100.0-30.0,0.9108577617097925
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2; PbBr2,AgI,Spin-coating >> CBD,0.9027817029469849,Chlorobenzene,PTAA,TAPC,Al,228.1185181392791,0,60.0-5.0,0.910853706983561
+nip,SLG | FTO,TiO2-c | Al2O3-mp,Al ,Spin-coating | Spin-coating,PbI2,Thiourea,Spin-coating,0.9555509964927976,Chlorobenzene,PTAA,F4-TCNQ,AgAl,359.83758037444244,0,100.0-6.0,0.9108527540235452
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.9048652937438163,Chlorobenzene,PTAA,F4-TCNQ,AgAl,90.59521938476404,0,50; 100-3.0; 10.0,0.9108051944699577
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,Methimazole,Spin-coating,0.7715000676335282,Diethyl ether,PTAA,F4-TCNQ,Ca | Al,182.60713065982748,0,60.0-150.0,0.9106272710208742
+nip,SLG | FTO,TiO2-c | PCBM-60,Undoped,Spin-coating | Spin-coating,Pb,Ni,Spin-coating,0.7272882413728464,Chlorobenzene,PTAA,LAD,AgAl,53.01707150686309,0,65.0; 100-1.0; 2.0,0.9105458780947373
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,ITIC,Spin-coating,0.7568523465202879,Chlorobenzene,PTAA,F4-TCNQ,AgAl,62.487804976226165,0,65-2.0,0.910520122778138
+nip,SLG | FTO,TiO2-c,CF3NaO2S,Spin-coating,PbI2,Phenylethyl ammonium iodide,Spin-coating,0.9657522439621378,Chlorobenzene,Spiro-MeOTAD,Li-TFSI; O2; TBP,Au,384.235014419854,0,100.0-600.0,0.9104836789921028
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Pb,CsPbBr3-np,Spin-coating,0.7747093486784856,Chlorobenzene,PTAA,F4-TCNQ,AgAl,53.86999684966072,0,50; 100-5.0; 10.0,0.9104195427622117
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation | Evaporation,Stoichiometric,Methimazole,Spin-coating,0.6317377827832558,Diethyl ether,PTAA,NPB,AgAl,95.13587048128673,0,100; 100-0.5; 30.0,0.9103299580622451
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DA2PbI4,Spin-coating,0.7096442407965039,Chlorobenzene,PTAA,F4-TCNQ,Al,74.38470882184725,0,60.0-20.0,0.9102649521885271
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,MACSN,Spin-coating,0.8878993077772843,Chlorobenzene,PTAA,F4-TCNQ,Cu,365.59554839557137,0,60; 100-3.0; 20.0,0.9102480094029772
+pin,SLG | ITO,PCBM-60 | BCP,,Spin-coating | Spin-coating,Stoichiometric,Phenylethylammonium iodide,Spin-coating,0.7896813758787603,Diethyl ether,PTAA,Undoped,Al,80.37607158171033,0,60; 80-1.5; 2.0,0.9101607410322697
+pin,SLG | ITO,PCBM-60 | BCP,Undoped,Spin-coating | Evaporation,Stoichiometric,DA2PbI4,Drop-infiltration,0.850255980298535,Chlorobenzene,PTAA,PolyTPD,AgAl,236.229420373774,0,60; 100-1.0; 7.0,0.9101014380906312
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Carbon-nt,Spin-coating,0.9983214538628036,Chlorobenzene,PTAA,TAPC,AgAl,311.19160983912866,0,120-45.0,0.9101012270744755
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,none,Diiodooctane,Spin-coating >> CBD,0.8066020951016444,Chlorobenzene,PTAA,NPB,Ag,334.08737959083095,0,50; 100-2.0; 10.0,0.9100445890654654
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,DCL97,Spin-coating,0.7874213624761822,Chlorobenzene,PTAA,NPB,AgAl,70.72078965126265,0,65; 100-10.0; 30.0,0.9099203490709187
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbCl2,PVA,Spin-coating,0.7842344292353295,Chlorobenzene,PTAA,F8BT,AgAl,96.25382960145491,0,150; 120-10.0; 40.0,0.9098986357152774
+nip,SLG | FTO,TiO2-c,Mo,Spin-coating,PbI2,PbS-QDs,Spin-coating,0.963822594308927,Chlorobenzene,Spiro-MeOTAD,Li-TFSI,MoO3 | Au,474.91159826045316,0,100.0-45.0,0.9098297661262511
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,MAI,ITIC; PCBM-60,Spin-coating,0.7203954682771104,Chlorobenzene,PTAA,Li-TFSI,Ag,277.4357242150751,0,100.0-600.0,0.9098255231677651
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbI2; PbBr2,Carbon-np,Spin-coating,0.7615476374005125,Toluene,PTAA,F8BT,AgAl,449.90826682111606,0,65; 100-2.0; 2.0,0.9097114074251911
+nip,SLG | FTO,TiO2-c,TiCl4,Spin-coating,PbI2,PU,Spin-coating,0.6217677223736084,Diethyl ether,PTAA,Li-TFSI,AgAl,146.1709569409121,0,25; 60-20.0; 40.0,0.9097022995685685
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,none,Diiodooctane,Spin-coating,0.8693258489345694,Chlorobenzene,PTAA,F8BT,AgAl,260.99434111189873,0,60.0; 100-2.0; 5.0,0.9096996989192784
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,none,ITIC,Spin-coating,0.9022663939004048,Chlorobenzene,PTAA,NPB,Ca | Al,51.47929410883458,0,60; 100-1.0; 4.0,0.9096365021102922
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DA2PbI4,Drop-infiltration,0.7267225595370163,Chlorobenzene,PTAA,F8BT,AgAl,115.4806972170426,0,60; 85-1.0; 25.0,0.9096225815895578
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbAc2,Mn,Spin-coating,0.7787640620286994,Chlorobenzene,PTAA,F4-TCNQ,AgAl,70.7346765541229,0,60; 110-1.0; 10.0,0.9096122411812303
+nip,SLG | FTO,TiO2-c,Nb,CBD,PbI2,Rhodanina,Spin-coating,0.9322412060977248,Chlorobenzene,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,MoO3 | Al,443.08735123704446,0,100.0-55.0,0.9092786103761576
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbCl2,beta-cyclodextrin,Spin-coating,0.819992824926275,Chlorobenzene,PTAA,TAPC,AgAl,98.59855612328053,0,65.0; 100-3.0; 10.0,0.9092433097379489
+nip,SLG | FTO,TiO2-c,Ag,Spin-coating,PbI2,PEAI,Spin-coating,0.9707847481952754,Chlorobenzene,PTAA,Li-TFSI,AgAl,168.8223253683692,0,0.0; 90.0-10.0; 50.0,0.9092374626353583
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Phenylethylammonium iodide,Spin-coating,0.9183185735440701,Diethyl ether,PTAA,F4-TCNQ,Ca | Al,413.96420556236035,0,90; 150-100.0; 10.0,0.9092282198281
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbAc2,KSCN,Spin-coating,0.7659947043683981,Chlorobenzene,PTAA,TAPC,AgAl,48.554024778955,0,60.0; 100-2.0; 5.0,0.909183299595629
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Mn,Spin-coating,0.3901036872839708,Chlorobenzene,PTAA,TAPC,AgAl,94.24324732632418,0,60; 100-3.0; 10.0,0.9091452230547208
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,ITIC,Spin-coating,0.7814411265840057,Chlorobenzene,PTAA,F4-TCNQ,AgAl,68.5914250438705,0,25; 95-5.0; 60.0,0.9091210281651627
+nip,SLG | FTO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,PbI2,Zr(AC)4,Spin-coating,0.8788447064913373,Chlorobenzene,PTAA,O2,Al,183.90088108781083,0,100.0-60.0,0.9089743739975908
+pin,SLG | FTO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,Diiodooctane,Spin-coating >> CBD,0.858418360626193,Chlorobenzene,PTAA,NPB,Ag,421.6676846247368,0,160.0-10.0,0.908918238419042
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DA2PbI4,Spin-coating,0.7752879574449131,Chlorobenzene,PTAA,F8BT,AgAl,413.5448033122757,0,65-2.0,0.9087627146406522
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,NH4SCN,Spin-coating,0.9432470211812911,Chlorobenzene,PTAA,NPB,MoO3 | Ag,195.80886748980936,0,140.0-10.0,0.9087479209488749
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbCl2,E2CA,Spin-coating,0.8427402771363819,Chlorobenzene,PTAA,F8BT,AgAl,111.02469423947201,0,65; 100-1.0; 60.0,0.908688052269886
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Cs,Spin-coating,0.3824841464495848,Diethyl ether,PTAA,F4-TCNQ,Al,94.83806304776007,0,60; 100-1.0; 10.0,0.9086145218259561
+nip,SLG | FTO,TiO2-c,Sn,Spin-coating,PbI2,PCBM-60,Spin-coating,0.840388982129083,Chlorobenzene,Spiro-MeOTAD,Li-TFSI; O2; TBP,MoO3 | Au,502.1258997541912,0,100.0-20.0,0.9085679452336968
+nip,SLG | FTO,TiO2-c,Galliumnitrate hydrate,Spin-coating,PbI2; PbBr2,SA-1,Spin-coating,0.9691509804433899,Chlorobenzene,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Al,464.36283758953425,0,100.0; 100-10.0; 15.0,0.9083759524370089
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbAc2,ITIC,Spin-coating,0.740581174310261,Chlorobenzene,PTAA,TAPC,AgAl,48.198958391567785,0,60; 100-2.0; 10.0,0.9083299908176395
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,none,I2,Spin-coating,0.8630866001211265,Chlorobenzene,PTAA,F8BT,Al,365.78477334729104,0,140.0-240.0,0.9082896298489973
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,Stoichiometric,CH2I2,Spin-coating,0.814407176983081,Chlorobenzene,PTAA,F8BT,Al,118.2694441117329,0,60.0; 100.0-5.0; 10.0,0.9082404257664822
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Carbon-nt,Spin-coating,0.7002864540176825,Chlorobenzene,PTAA,NPB,Al,61.726210103568164,0,60; 100-0.33; 10.0,0.9082275980340819
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,PMA,Spin-coating,0.8005327258415266,Diethyl ether,PTAA,NPB,Ag,37.1995064225063,0,60; 100-2.0; 5.0,0.9081471782606271
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Carbon-nt,Spin-coating,0.8727366570506383,Chlorobenzene,PTAA,F4-TCNQ,AgAl,384.33000426771736,0,60; 85-1.0; 25.0,0.9081191051190962
+pin,SLG | ITO,PCBM-60 | BCP,DMOPA ,Spin-coating | Spin-coating,Stoichiometric,DA2PbI4,Drop-infiltration,0.7419789963187371,Chlorobenzene,PTAA,TAPC,AgAl,102.17967056484544,1,60; 80-1.5; 2.0,0.9081025445337063
+nip,SLG | FTO,TiO2-c,TOPD,Spin-coating,PbI2,Graphene-QDs,Spin-coating,0.7453742600163369,Chlorobenzene,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,465.3056832330561,0,100.0-25.0,0.9080812224786945
+nip,SLG | FTO,SnO2-c,La,Spin-coating,NH4Cl,AgI,Spin-coating >> CBD,0.8010427136951557,Chlorobenzene,PTAA,TPFB,Ag,288.07168286397905,0,100.0-50.0,0.9079362712219157
+nip,SLG | FTO,TiO2-c,TiCl4,Spin-coating,PbI2,PEAI,Spin-coating,0.9423716684479276,Chlorobenzene,PTAA,O2,AgAl,174.31793805096157,0,100.0-10.0,0.9079111229159634
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2,Diiodooctane,Spin-coating,0.7392523007592791,Chlorobenzene,PTAA,F4-TCNQ,AgAl,123.77789789064266,0,60.0; 85.0-2.0; 25.0,0.907772646873159
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,none,CH2I2,Spin-coating,0.903713211856877,Chlorobenzene,PTAA,F8BT,Al,134.21261927618826,0,50; 100-1.0; 10.0,0.9077130897003969
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,DA2PbI4,Drop-infiltration,0.9810799251832975,Chlorobenzene,PTAA,F4-TCNQ,Al,404.6856833799788,0,60.0; 85.0-1.0; 25.0,0.9076754314982077
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,P123,Spin-coating,0.7944877208980614,Chlorobenzene,PTAA,F4-TCNQ,AgAl,87.89714462684887,0,60; 100-1.0; 4.0,0.9076718044227003
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,Pb,FEAI,Spin-coating,0.8747106812931817,Chlorobenzene,P3HT,Li-TFSI; TBP,AgAl,291.09280696830746,0,70-20.0,0.9076613253300057
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DA2PbI4,Spin-coating,0.9078948165243779,Chlorobenzene,PTAA,F4-TCNQ,Ag,329.44193363242545,0,25; 100-10.0; 5.0,0.907636879629216
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Diiodooctane,Spin-coating >> CBD,0.8848665117544797,Chlorobenzene,PTAA,F4-TCNQ,AgAl,120.15244090360395,0,50; 100-2.0; 10.0,0.9075952806972765
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,PU,Spin-coating,0.894223507494214,Diethyl ether,PTAA,Undoped,Cu,408.63406528246895,0,65.0; 100.0-5.0; 10.0,0.9075750653295646
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,none,FACl,Spin-coating,0.8867921099615848,Chlorobenzene,PTAA,TAPC,Al,47.35227979244229,0,60; 85-1.0; 25.0,0.9075250804517769
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,KSCN,Spin-coating,0.7350475346755756,Chlorobenzene,PTAA,F4-TCNQ,Ag,533.1340217451736,0,100.0-25.0,0.9073415703190865
+nip,SLG | FTO,TiO2-c,Ethanolamine,Spin-coating,PbI2,TDZT,Spin-coating,0.9606755753804533,Chlorobenzene,Spiro-MeOTAD,Li-TFSI; TPB,AgAl,135.20655548981233,0,100.0-1.5,0.9072737605827739
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,DA2PbI4,Drop-infiltration,0.8151867622105152,Chlorobenzene,PTAA,F8BT,Al,92.92483351966347,0,60; 100-1.0; 5.0,0.9072657967212424
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,NH4Cl,Diiodooctane,Spin-coating >> CBD,0.815732002813697,Chlorobenzene,PTAA,F4-TCNQ,AgAl,79.06784758243809,0,60.0-45.0,0.9070935926047524
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,NMA,Spin-coating,0.8303414022352719,Diethyl ether,PTAA,F4-TCNQ,Ag,278.64046698416774,0,60; 100-1.0; 5.0,0.9070152558865361
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,DA2PbI4,Drop-infiltration,0.8466074759542259,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,246.49362615167925,0,65; 100-2.0; 2.0,0.9070128134469014
+pin,SLG | ITO,SnO2-np,Undoped,Spin-coating,Stoichiometric,ITIC; PCBM-60,Spin-coating,0.7243560528404748,Chlorobenzene,PTAA,TAPC,AgAl,150.4149534569591,0,240.0-0.1,0.907001672701582
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,NH4I,Spin-coating,0.8728312808418305,Chlorobenzene,PTAA,NPB,Cu,279.80531167678487,0,65.0; 100.0-1.0; 5.0,0.9069688650406508
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,none,ITIC,Spin-coating,0.7321387838897668,Chlorobenzene,PTAA,TAPC,Al,336.22307035565024,0,70.0-1.0,0.9068510358891925
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbAc2,Benzoquinone,Spin-coating >> CBD,0.8077199905681958,Chlorobenzene,PTAA,F4-TCNQ,Ag,92.77860490779881,0,60.0-20.0,0.9068508699462189
+nip,SLG | FTO,TiO2-c,Ethanolamine,Spin-coating,PbCl2,TDZDT,Spin-coating,0.7767481765417918,Chlorobenzene,PTAA,LAD,MoO3 | Au,451.3468848366663,0,100.0-100.0,0.9068279068935295
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,Stoichiometric,PEA,Spin-coating,0.9784571534009912,Chlorobenzene,PTAA,NPB,Ca | Al,379.165733932295,0,25; 100-10.0; 10.0,0.9067645365481822
+nip,SLG | FTO,SnO2-c,SnCl2; MercaptoPropionic acid; Urea,Spin-coating,NH4Cl,Diiodooctane,Spin-coating >> CBD,0.19722418513234952,Chlorobenzene,PTAA,LAD,AgAl,237.22138560956864,0,65; 100-1.0; 1.0,0.9067110526733507
+pin,SLG | FTO,C60 | BCP,Undoped,Evaporation,PbI2; PbBr2,Carbon-nt,Spin-coating,0.8920273471859255,Chlorobenzene,PTAA,F8BT,Ca | Al,450.2678397706771,0,60.0; 85.0-1.0; 25.0,0.9066434666481429
+nip,SLG | FTO,TiO2-c,Sn,Spin-coating,PbAc2,Rhodanina,Spin-coating,0.910600894533494,Chlorobenzene,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,MoO3 | Au,458.93837492407516,0,100.0-3.0,0.9064306906516083
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,PbI2; PbBr2,CdCl2,Spin-coating,0.7899544610460448,Diethyl ether,PTAA,O2,Ag,320.163618732316,0,100.0-10.0,0.9063824432367037
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,NH4Cl,DA2PbI4,Spin-coating,0.8284947479408987,Chlorobenzene,PTAA,TPFB,Ag,160.1421781985773,0,65; 100-2.0; 5.0,0.9063006593081382
+pin,SLG | ITO,PCBM-60,TBAB,Spin-coating,PbI2; PbBr2,HATNA,Spin-coating,0.8643253625039496,Diethyl ether,PTAA,F8BT,AgAl,72.68636345640215,0,40; 100-2.0; 10.0,0.9062821675736181
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,PbAc2,Benzoquinone,Spin-coating >> CBD,0.7729516146185982,Chlorobenzene,PTAA,F8BT,AgAl,68.57953067951232,0,65.0-1.0,0.9062799913238793
+nip,SLG | FTO,SnO2-c,Ti3C2,Spin-coating,MAI,Carbon-nt,Spin-coating,0.7976050579385512,Chlorobenzene,PTAA,LAD,AgAl,193.29302681121922,0,140.0-10.0,0.9062682424384301
+pin,SLG | ITO,SnO2-np,Undoped,Spin-coating,Stoichiometric,NH4I,Spin-coating >> CBD,0.8078685355885731,Chlorobenzene,PTAA,TAPC,AgAl,215.46281518925647,0,100.0-15.0,0.905952676762388
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,PbI2,Cl; DPE,Spin-coating >> CBD,0.752266153577071,Chlorobenzene,PTAA,NPB,AgAl,361.7134556475023,0,80.0-180.0,0.9056275409680268
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,PbI2,Mn,Spin-coating,0.7521265580515066,Chlorobenzene,P3HT,Undoped,AgAl,110.24834870753716,0,60; 100-45.0; 50.0,0.9055941034934316
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DA2PbI4,Drop-infiltration,0.7792816035606046,Chlorobenzene,PTAA,F8BT,AgAl,111.29515838327589,0,60.0; 100.0-5.0; 10.0,0.905306694777667
+pin,SLG | ITO,C60 | BCP,Undoped,Evaporation,PbI2; PbBr2,NH4I,Spin-coating,0.8244241455445623,Chlorobenzene,PTAA,F8BT,AgAl,109.67658690462025,0,60.0; 85.0-1.0; 25.0,0.9051885656612283
+nip,SLG | FTO,TiO2-c,Undoped,Evaporation,PbI2,CNDs@K,Spin-coating,0.8765866542532167,Diethyl ether,Spiro-MeOTAD,Li-TFSI; Si NPs,AgAl,54.147769062899954,0,100.0-5.0,0.9051660919341226
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Terephthalic acid,Spin-coating >> Spin-coating,0.8607189702601059,Diethyl ether,PTAA,F4-TCNQ,AgAl,361.94167238845057,0,60; 100-1.0; 2.0,0.9051607033625099
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,DA2PbI4,Drop-infiltration,0.7680600555619327,Chlorobenzene,PTAA,F8BT,AgAl,89.35147953588587,0,65.0-20.0,0.9050761988337696
+nip,SLG | FTO,TiO2-c | TiO2-nw,Undoped,Spin-coating | Hydrothermal,PbI2,H2O; Ti3C2Tx,Spin-coating,0.959080248643282,Ethyl acetate,PTAA,Li-TFSI; TBP,AgAl,246.9387908487348,0,100.0-144.0,0.9049494219855441
+nip,SLG | FTO,TiO2-c,Phosphotungstic acid; WCl6,Spin-coating,PbI2,I2,Spin-coating,0.9270672020244433,Chlorobenzene,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,Au,175.41716019098368,0,100.0-5.0,0.904792059740116
+nip,SLG | FTO,TiO2-c,Undoped,E-beam evaporation,PbI2,Butylamineiodide,Spin-coating,0.9540977107007148,Chlorobenzene,PTAA,TPFB,AgAl,180.80409250242255,0,100.0-15.0,0.9047520785891207
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,OTAB,Spin-coating,0.8815637759117684,Chlorobenzene,PTAA,F8BT,AgAl,61.60806219124434,0,60.0-2.0,0.9046985911985892
+nip,SLG | FTO,TiO2-c,Sn,Spin-coating,PbI2,Rhodanina,Spin-coating,0.9327907788440913,Chlorobenzene,Spiro-MeOTAD,Li-TFSI,MoO3 | Au,474.7653222795938,0,100.0-33.0,0.9042991225759007
+nip,SLG | FTO,TiO2-c,rGraphene oxide,Spin-coating,PbCl2,Butanediaminedihydroiodide,Spin-coating,0.724541070926669,Chlorobenzene,PTAA,Li-TFSI,AgAl,324.7714290721907,0,100; 120-100.0; 20.0,0.9042979609728006
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,NH4Cl,ITIC; PCBM-60,Spin-coating,0.7522571484510416,Chlorobenzene,PTAA,Li-TFSI,Ag,365.5411523617406,0,100.0-10.0,0.9042809490987014
+nip,SLG | FTO,TiO2-c,Nb,CBD,PbI2,SWCNTs,Spin-coating,0.9088354753464963,Diethyl ether,Spiro-MeOTAD,JQ1; Li-TFSI; TBP,MoO3 | Au,490.12265328262663,0,100.0-80.0,0.9041670848048657
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,PbI2; PbBr2,Diiodooctane,Spin-coating,0.9029871159433681,Chlorobenzene,PTAA,F4-TCNQ,AgAl,72.84921040710833,0,110; 115-60.0; 30.0,0.9040933596068815
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Cl; DPE,Spin-coating >> CBD,0.9807339291315658,Chlorobenzene,PTAA,F4-TCNQ,MoO3 | Al,406.9689536834316,0,60; 100-2.0; 5.0,0.9040319566584475
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2,Hexamethylphosphoramide,Spin-coating,0.8866391167439881,Chlorobenzene,PTAA,Li-TFSI,Au,328.84763200154504,0,100.0-1.5,0.9040295985817369
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,NH4Cl,Cl; DPE,Spin-coating >> CBD,0.7964461970104013,Chlorobenzene,PTAA,TPFB,Ag,154.96613136371457,0,25; 60-20.0; 40.0,0.9039830983030983
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,NH4SCN,Spin-coating,0.7279149536932921,Chlorobenzene,PTAA,F4-TCNQ,Al,115.56460115354977,0,60.0; 80-1.0; 5.0,0.9039778696689812
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,MACSN,Spin-coating,0.8471837816440075,Chlorobenzene,PTAA,F4-TCNQ,Cu,366.9496266545101,0,60; 80-2.0; 5.0,0.9038088452671182
+pin,SLG | ITO,PCBM-60 | BCP,DMOAP ,Spin-coating | Spin-coating,PbAc2,Rb,Spin-coating,0.7458549608577172,Chlorobenzene,PTAA,F8BT,AgAl,87.28117039806492,0,25.0-5.0,0.9036873677452811
+pin,SLG | FTO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,Acetate,Spin-coating,0.8460690911382927,Chlorobenzene,PTAA,PolyTPD,Al,395.98180881930585,0,170.0-10.0,0.9035281061546436
+nip,SLG | FTO,SnO2-c,Bi2O2S-np,Spin-coating,NH4Cl,beta-cyclodextrin,Spin-coating,0.7250708230137453,Chlorobenzene,PTAA,O2,Ag,16.868364500924372,0,0.0; 90.0-10.0; 50.0,0.9035139031210627
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,PbC2N2S2,Spin-coating,0.90436001134663,Chlorobenzene,PTAA,F4-TCNQ,AgAl,254.91319986736727,0,200.0-60.0,0.9034679563500115
+nip,SLG | FTO,TiO2-c,CF3NaO2S,Spin-coating,PbI2,ABS,Spin-coating,0.9144394951740082,Chlorobenzene,PTAA,Li-TFSI; TBP,AgAl,99.6540454511412,0,105.0-20.0,0.9034437688306528
+nip,SLG | FTO,SnO2-c,Undoped,ALD,Pb,SnS-QDs,Spin-coating,0.8590525866083776,Chlorobenzene,P3HT,Li-TFSI,AgAl,287.05449042711007,0,60; 100-30.0; 90.0,0.9034012868852733
+nip,SLG | FTO,TiO2-c,rGraphene oxide,Spin-coating,PbI2,2Ph-ox,Spin-coating,0.917556872966382,Chlorobenzene,PTAA,O2,AgAl,132.06252819126587,0,100.0-5.0,0.9033219358882293
+nip,SLG | ITO,TiO2-c,Zn,Spin-coating,PbI2; PbBr2,Caffeine,Spin-coating,0.5945195148274605,Diethyl ether,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,MoO3 | Al,94.32407446067351,0,100; 100-10.0; 60.0,0.9032491486767085
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,none,DA2PbI4,Drop-infiltration,0.7212402995590192,Chlorobenzene,PTAA,TAPC,Al,93.7895107731586,0,70.0| 120.0-10.0| 20.0,0.9032465107788855
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,DCL97,Spin-coating,0.7347171277150158,Chlorobenzene,PTAA,F4-TCNQ,AgAl,326.5549837598555,0,60; 100-3.0; 10.0,0.9030135704255466
+nip,SLG | FTO,SnO2-c,Li,Spin-coating,PbCl2,H2O,Spin-coating,0.7215706452171479,Chlorobenzene,P3HT,Li-TFSI; TBP,Al,527.0921926398246,0,100.0-55.0,0.9030056062866364
+nip,SLG | FTO,TiO2-c,CF3NaO2S,Spin-coating,PbI2,PEG-[60]fullerenes,Spin-coating,0.896927485330234,Chlorobenzene,Spiro-MeOTAD,FK210,AgAl,107.38460641476128,0,104.0-10.0,0.9029799672979166
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Rb,Spin-coating,0.7074132519467062,Chlorobenzene,PTAA,F8BT,AgAl,74.10234235173691,0,160-30.0,0.9029169340536045
+nip,SLG | FTO,TiO2-c,Fe,Spin-coating,PbI2,Polyurethane,Spin-coating,0.16286736413360203,Chlorobenzene,PTAA,Li-TFSI,AgAl,82.52792799531869,0,100.0-50.0,0.9028919278348232
+nip,SLG | FTO,TiO2-c, TiCl4,Spin-coating,PbCl2,PCBM-60,Spin-coating,0.7832708036711563,Chlorobenzene,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,Au,317.9415902030961,0,100.0-2.0,0.9028910982119556
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,ITIC; PCBM-60,Spin-coating,0.7198469091998797,Chlorobenzene,PTAA,F4-TCNQ,AgAl,58.168203357431864,0,60.0-150.0,0.9028403437762318
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,Carbon-nt,Spin-coating,0.9434003433220293,Chlorobenzene,PTAA,F4-TCNQ,Ag,392.0747912515338,0,60.0; 80-1.0; 5.0,0.902783814955734
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Pb,ETI,Spin-coating,0.38505836990145786,Chlorobenzene,PTAA,TAPC,AgAl,100.78434830357295,0,60; 100-1.0; 10.0,0.9027242303637966
+pin,SLG | FTO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2,NH4SCN,Spin-coating,0.6309707062666545,Chlorobenzene,PTAA,TAPC,AgAl,103.12037539550441,0,60.0-45.0,0.9027216853097064
+pin,SLG | ITO,SnO2-np,Undoped,Spin-coating,Stoichiometric,Cl; DPE,Spin-coating >> CBD,0.9671558022442598,Chlorobenzene,PTAA,PolyTPD,Ca | Al,407.9848805518134,0,60; 100-2.0; 10.0,0.9027019733482525
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Graphene oxide,Spin-coating,0.7569795506434,Chlorobenzene,PTAA,F4-TCNQ,Al,308.8027596317361,0,60.0; 85.0-1.0; 25.0,0.9026612306319381
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,none,DCL97,Spin-coating,0.729567563160024,Chlorobenzene,PTAA,NPB,AgAl,350.71506126218554,0,70-60.0,0.9026394427149314
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,CH2I2,Spin-coating >> CBD,0.8400898079149783,Chlorobenzene,PTAA,F8BT,AgAl,127.76776624570218,0,60; 100-0.5; 5.0,0.9024963114187194
+nip,SLG | ITO,TiO2-c,TOPD,Spin-coating,PbI2; PbBr2,PbSCN2,Spin-coating,0.9682676874203675,Diethyl ether,Spiro-MeOTAD,Li-TFSI; TPB,MoO3 | Al,200.4801131115276,0,100.0; 120.0-90.0; 15.0,0.9024956686069842
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,beta-cyclodextrin,Spin-coating,0.7378179784866639,Chlorobenzene,PTAA,TAPC,AgAl,92.92271190559921,0,60; 100-3.0; 20.0,0.9024679704118577
+pin,SLG | ITO,PCBM-60 | ZnO-np,Undoped,Spin-coating | Spin-coating,Stoichiometric,NH4SCN,Spin-coating,0.986822631271272,Chlorobenzene,PTAA,F8BT,Au,404.7236242513286,0,50.0; 150.0-3.0; 5.0,0.902444523004203
+pin,SLG | ITO,SnO2-np,Undoped,Spin-coating,Stoichiometric,PS,Spin-coating,0.7409485264896704,Diethyl ether,PTAA,PolyTPD,Ca | Al,230.9497752974579,0,65.0; 100.0-2.0; 4.0,0.9023720362167283
+pin,SLG | ITO,PCBM-60 | bis-C60,Undoped,Spin-coating | Spin-coating,Stoichiometric,ZnCl2,Spin-coating,0.8284008777472196,Diethyl ether,PTAA,NPB,AgAl,97.22167918307555,0,50; 100-3.0; 12.0,0.9023655056390192
+nip,SLG | FTO,TiO2-c,NaCl,Spin-coating,PbAc2,SA-1,Spin-coating,0.9127531361509135,Chlorobenzene,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Au,457.99076225734683,0,100.0-5.0,0.9022936286865819
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,DA2PbI4,Drop-infiltration,0.7933127062037441,Chlorobenzene,PTAA,F4-TCNQ,AgAl,102.68427642536876,0,65; 100-1.0; 9.0,0.902293345695292
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbCl2,SrI2,Spin-coating >> Spin-coating,0.7710206634341266,Chlorobenzene,PTAA,TAPC,AgAl,81.85820781989966,0,60.0-5.0,0.90228880351444
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,ITIC,Spin-coating,0.7735322807552681,Chlorobenzene,PTAA,F8BT,AgAl,137.62300973638224,0,60; 120-2.0; 15.0,0.9022441132774316
+pin,SLG | ITO,C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,MACSN,Spin-coating,0.8073844391925207,Chlorobenzene,PTAA,F4-TCNQ,AgAl,257.97611141626805,0,65.0-2.0,0.9022247489985066
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,GuaI,Spin-coating,0.9286802658943818,Chlorobenzene,PTAA,F4-TCNQ,AgAl,165.45183255664858,0,0.0; 90.0-10.0; 50.0,0.9019547675222551
+nip,SLG | FTO,SnO2-c,Graphene-QDs,Spin-coating,MAI,NMA,Spin-coating,0.7185779672059271,Diethyl ether,PTAA,TPFB,Ag,397.3225748765763,0,100.0-240.0,0.9019509343624256
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Pb,ITIC; PCBM-60,Spin-coating,0.733745983256479,Chlorobenzene,PTAA,F8BT,AgAl,148.0842872569226,0,60; 100-3.0; 10.0,0.9019092086125685
+pin,SLG | ITO,PCBM-60,DBU,Spin-coating,Stoichiometric,DCL97,Spin-coating,0.9502757563455061,Chlorobenzene,PTAA,F4-TCNQ,AgAl,241.11277944910512,0,65.0; 100.0-1.0; 2.0,0.9018255769854985
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Terephthalic acid,Spin-coating >> Spin-coating,0.7225860160667068,Diethyl ether,PTAA,F8BT,AgAl,108.03326731930767,0,25; 60-20.0; 40.0,0.9015939169985847
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Terephthalic acid,Spin-coating >> Spin-coating,0.7926220147203313,Diethyl ether,PTAA,PolyTPD,AgAl,76.38120479831369,0,25; 100.0-10.0; 5.0,0.9014585844035348
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,none,FU11,Spin-coating,0.817805834339449,Chlorobenzene,PTAA,F8BT,AgAl,294.1887219698197,0,65.0-270.0,0.9014263166178557
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,NH4I,Spin-coating >> CBD,0.8971146676971206,Chlorobenzene,PTAA,F8BT,Ag,129.9488596929865,0,60; 100-1.0; 60.0,0.9014034310421409
+nip,SLG | FTO,TiO2-c,Zr,Spin-coating,PbI2,TiO2-np,Spin-coating,0.9054004980450827,Diethyl ether,Spiro-MeOTAD,JQ2; Li-TFSI; TBP,MoO3 | Au,458.17606104129493,0,0.0; 90.0-10.0; 50.0,0.9014017334907345
+nip,SLG | FTO,TiO2-c,Pluronic P123 surfactant,CBD,PbCl2,NaYF4:Yb:Er-np,Spin-coating,0.7490286195027096,Chlorobenzene,Spiro-MeOTAD,Li-TFSI; TBP,MoO3 | Au,302.2083348163229,0,100.0-240.0,0.9013986880109855
+nip,SLG | FTO,TiO2-c,Zn,Spin-coating,PbI2; PbBr2,2-Phenylethylamine Hydroiodide,Spin-coating,0.5531199156417568,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,101.45339956385968,0,100.0; 140.0-15.0; 60.0,0.9013983797218686
+nip,SLG | FTO,TiO2-c,rGraphene oxide,Spin-coating,PbI2,Butanediaminedihydroiodide,Spin-coating,0.9628731090641274,Chlorobenzene,PTAA,F4-TCNQ,AgAl,111.45369719464897,0,100.0-2.0,0.901381712899384
+nip,SLG | FTO,TiO2-c,Fe,Spin-coating,PbI2,EtOH,Spin-coating,0.584327824812538,Diethyl ether,Spiro-MeOTAD,Li-TFSI,Al,256.7617393917526,0,100.0-180.0,0.9012011383304113
+nip,SLG | FTO,TiO2-c,Zr,Spin-coating,PbCl2,CsI,Spin-coating,0.2588585979981646,Diethyl ether,Spiro-MeOTAD,Li-TFSI; TBP,MoO3 | Au,257.74905678125845,0,100.0-180.0,0.9011212843007612
+nip,SLG | FTO,TiO2-c,Undoped,Evaporation,PbI2,Phenylethyl ammonium iodide,Spin-coating,0.5290882623652313,Chlorobenzene,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,167.40072599086076,0,100.0-23.0,0.9010966856557362
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,PbI2; PbBr2,Mn,Spin-coating,0.6867891097349051,Chlorobenzene,PTAA,TAPC,AgAl,81.10471604311508,0,25; 95-5.0; 60.0,0.901089616692508
+nip,SLG | FTO,TiO2-c,TiCl4,Spin-coating,PbI2,TMS,Spin-coating,0.6345883446986351,Diethyl ether,PTAA,Li-TFSI,AgAl,120.19094245450816,0,105.0-60.0,0.9010430975067705
+nip,SLG | FTO,TiO2-c,Mo,Spin-coating,PbI2,Graphene-QDs,Spin-coating,0.9338508847615549,Chlorobenzene,Spiro-MeOTAD,IrCp*Cl(PyPyz)[TFSI]; Li-TFSI; TBP,MoO3 | Au,439.9235644537447,0,100.0-90.0,0.9009793609233611
+pin,SLG | ITO,PCBM-60 | BCP,DMOAP ,Spin-coating | Spin-coating,Stoichiometric,Mn,Spin-coating,0.9187616865446453,Chlorobenzene,PTAA,F8BT,AgAl,273.243958264537,0,60; 80-1.0; 2.0,0.9008394364745269
+pin,SLG | ITO,PCBM-60 | LiF,Undoped,Spin-coating | Evaporation,Stoichiometric,Benzoquinone,Spin-coating >> Spin-coating,0.7779623761969412,Chlorobenzene,PTAA,TAPC,AgAl,90.98785339474887,0,65-2.0,0.900684549561839
+pin,SLG | ITO,PCBM-60 | LiF,PNDI-2T ,Spin-coating | Evaporation,Stoichiometric,Butanediaminedihydroiodide,Spin-coating,0.9898259871756904,Chlorobenzene,PTAA,F8BT,AgAl,251.07372353398998,0,65.0-10.0,0.9006682069643764
+nip,SLG | FTO,SnO2-np,Undoped,Spin-coating,NH4Cl,MA,Spin-coating,0.24718559655586292,Diethyl ether,PTAA,Li-TFSI; Polystyrene; TBP,AgAl,150.30069658795333,0,65.0-2.0,0.9006512398295421
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,NH4I,Spin-coating,0.931415952870183,Chlorobenzene,PTAA,F8BT,Ca | Al,341.8383934208091,0,60; 100-1.0; 2.0,0.9005838257976966
+nip,SLG | FTO,TiO2-c,Nb,CBD,PbCl2,Ca,Spin-coating,0.9434829365655035,Chlorobenzene,Spiro-MeOTAD,MoO3,MoO3 | Au,413.3479629605109,0,100.0-6.0,0.9005078110756729
+nip,SLG | FTO,SnO2-np,Al,Spin-coating,MAI,Graphene oxide,Spin-coating,0.7300497686909642,Diethyl ether,PTAA,Li-TFSI,AgAl,376.57249814558384,0,0.0; 90.0-10.0; 50.0,0.9003928760397204
+pin,SLG | ITO,PCBM-60 | C60 | BCP,Undoped,Spin-coating | Evaporation | Evaporation,Stoichiometric,Ni,Spin-coating,0.7733203684829215,Chlorobenzene,PTAA,TAPC,AgAl,18.695408902568076,0,180.0-10.0,0.9003608051911881
+pin,SLG | ITO,PCBM-60 | LiF,DIO,Spin-coating | Evaporation,Stoichiometric,ITIC; PCBM-60,Spin-coating,0.979812113222758,Chlorobenzene,PTAA,NPB,AgAl,0.47743761739815227,0,110.0-60.0,0.9000967154520473
+nip,SLG | FTO,TiO2-c,HCl,Spin-coating,PbI2,GuaI,Spin-coating,0.9368931888932585,Chlorobenzene,PTAA,F4-TCNQ,AgAl,539.8199823793932,0,65.0; 100.0-1.0; 2.0,0.9000924627993083
+nip,SLG | FTO,TiO2-c | Al2O3-mp,Undoped,ALD | Spin-coating,Pb,KSCN,Spin-coating,0.8257423437988185,Chlorobenzene,PTAA,LAD,Ag,369.3582066134919,0,100.0-12.0,0.9000542320842075
+nip,SLG | FTO,TiO2-c, TiCl4,Spin-coating,PbI2; PbBr2,SA-2,Spin-coating,0.9237248436987394,Chlorobenzene,Spiro-MeOTAD,JQ3; Li-TFSI; TBP,MoO3 | Al,451.30415083354757,0,100.0-9.0,0.9000405802240496
